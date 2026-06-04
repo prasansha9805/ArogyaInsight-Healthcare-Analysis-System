@@ -1,0 +1,1001 @@
+Patient_ID,Name,Age,Gender,Disease,Medicine,Dosage,Reaction,Recovery,Visit_Date,Doctor
+1001,Arhaan Jani,19,Female,Cold,Ibuprofen,650mg,Fatigue,Fully Recovered,5/1/2025,Dr. Iyer
+1002,Akarsh Toor,65,Female,Asthma,Budesonide,650mg,Dizziness,Partially Recovered,3/4/2026,Dr. Singh
+1003,Samar Mallick,35,Female,Blood Pressure,Losartan,25mg,Rash,Partially Recovered,11/10/2024,Dr. Singh
+1004,Ivana Ganguly,51,Female,Migraine,Sumatriptan,100mg,Nausea,Fully Recovered,12/7/2024,Dr. Iyer
+1005,Elakshi Mani,19,Male,Allergy,Cetirizine,100mg,Partially Recoveredne,Partially Recovered,8/3/2024,Dr. Kapoor
+1006,Fateh Lad,73,Female,Blood Pressure,Losartan,500mg,Tremors,Partially Recovered,3/29/2025,Dr. Kapoor
+1007,Neysa Kata,29,Male,Migraine,Sumatriptan,250mg,Sleepiness,Partially Recovered,2/20/2025,Dr. Singh
+1008,Nakul Dasgupta,28,Female,Asthma,Budesonide,650mg,Rash,Fully Recovered,8/24/2024,Dr. Sharma
+1009,Madhup Loyal,19,Female,Fever,Ibuprofen,250mg,Acidity,Partially Recovered,9/4/2024,Dr. Joshi
+1010,Hunar Aurora,58,Male,Infection,Doxycycline,650mg,Sleepiness,Fully Recovered,3/19/2025,Dr. Arora
+1011,Anay Bhandari,39,Male,Diabetes,Metformin,500mg,Stomach Pain,Fully Recovered,11/27/2024,Dr. Kapoor
+1012,Mamooty Bansal,28,Male,Diabetes,Insulin,650mg,Dry Mouth,Partially Recovered,5/12/2025,Dr. Mehta
+1013,Hunar Chand,68,Male,Depression,Fluoxetine,25mg,Dizziness,Partially Recovered,8/13/2025,Dr. Kapoor
+1014,Vivaan Luthra,66,Female,Diabetes,Metformin,250mg,Stomach Pain,Partially Recovered,4/5/2025,Dr. Verma
+1015,Azad Bhakta,57,Female,Depression,Sertraline,100mg,Dry Mouth,Fully Recovered,4/11/2026,Dr. Sharma
+1016,Ira Comar,18,Female,Blood Pressure,Amlodipine,100mg,Partially Recoveredne,Fully Recovered,10/30/2024,Dr. Verma
+1017,Aradhya Sachdev,33,Male,Depression,Fluoxetine,650mg,Partially Recoveredne,Fully Recovered,7/8/2024,Dr. Verma
+1018,Rhea Dara,43,Female,Allergy,Cetirizine,5mg,Tremors,Fully Recovered,4/22/2025,Dr. Singh
+1019,Aarav Suri,29,Female,Cold,Paracetamol,25mg,Dry Mouth,Fully Recovered,6/19/2025,Dr. Mehta
+1020,Tara Lala,67,Female,Allergy,Loratadine,50mg,Tremors,Partially Recovered,12/25/2025,Dr. Verma
+1021,Shamik Kapadia,54,Male,Asthma,Salbutamol,500mg,Acidity,Partially Recovered,7/11/2025,Dr. Arora
+1022,Ranbir Chaudhuri,24,Male,Cold,Ibuprofen,650mg,Dry Mouth,Fully Recovered,9/13/2025,Dr. Iyer
+1023,Mohanlal Varkey,38,Male,Fever,Paracetamol,25mg,Vomiting,Fully Recovered,12/27/2025,Dr. Kapoor
+1024,Fateh Shere,59,Female,Fever,Ibuprofen,5mg,Dry Mouth,Partially Recovered,6/7/2024,Dr. Iyer
+1025,Ivana Srivastava,28,Female,Blood Pressure,Amlodipine,250mg,Partially Recoveredne,Fully Recovered,9/22/2025,Dr. Iyer
+1026,Ojas Rajagopal,20,Female,Depression,Sertraline,5mg,Rash,Fully Recovered,12/7/2024,Dr. Sharma
+1027,Ehsaan Bava,65,Male,Blood Pressure,Amlodipine,10mg,Dry Mouth,Fully Recovered,9/24/2025,Dr. Kapoor
+1028,Indrajit Keer,63,Male,Allergy,Cetirizine,5mg,Fatigue,Fully Recovered,2/9/2025,Dr. Arora
+1029,Shray Iyer,38,Female,Depression,Sertraline,650mg,Dizziness,Fully Recovered,4/24/2025,Dr. Kapoor
+1030,Sana Tiwari,55,Male,Blood Pressure,Losartan,650mg,Rash,Fully Recovered,4/10/2026,Dr. Verma
+1031,Indrans Tripathi,36,Male,Cold,Ibuprofen,5mg,Fatigue,Partially Recovered,5/26/2025,Dr. Singh
+1032,Miraan Borah,39,Male,Asthma,Salbutamol,10mg,Dizziness,Partially Recovered,12/29/2024,Dr. Singh
+1033,Bhavin Randhawa,55,Female,Allergy,Loratadine,5mg,Fatigue,Fully Recovered,4/20/2026,Dr. Verma
+1034,Mannat Trivedi,35,Male,Cold,Ibuprofen,50mg,Dizziness,Fully Recovered,1/24/2026,Dr. Verma
+1035,Inaaya  Thakkar,41,Male,Diabetes,Insulin,400mg,Nausea,Fully Recovered,1/8/2025,Dr. Kapoor
+1036,Kabir Borah,21,Male,Allergy,Loratadine,50mg,Stomach Pain,Partially Recovered,11/14/2025,Dr. Joshi
+1037,Tiya Brar,56,Male,Depression,Sertraline,850mg,Acidity,Fully Recovered,12/25/2024,Dr. Singh
+1038,Divyansh Kala,52,Female,Fever,Paracetamol,650mg,Stomach Pain,Fully Recovered,7/17/2025,Dr. Arora
+1039,Inaaya  Kata,25,Male,Cold,Paracetamol,400mg,Headache,Fully Recovered,9/24/2024,Dr. Iyer
+1040,Divyansh Sabharwal,46,Male,Migraine,Sumatriptan,650mg,Dizziness,Partially Recovered,1/12/2025,Dr. Singh
+1041,Jivika Sood,51,Female,Cold,Ibuprofen,25mg,Nausea,Partially Recovered,11/24/2025,Dr. Mehta
+1042,Nirvi Singhal,21,Male,Fever,Ibuprofen,5mg,Tremors,Partially Recovered,2/16/2026,Dr. Joshi
+1043,Vritika Bala,69,Male,Migraine,Sumatriptan,400mg,Partially Recoveredne,Partially Recovered,2/2/2025,Dr. Sharma
+1044,Kiaan Gaba,68,Female,Fever,Ibuprofen,25mg,Nausea,Fully Recovered,9/20/2024,Dr. Iyer
+1045,Romil Khanna,34,Male,Blood Pressure,Losartan,500mg,Headache,Fully Recovered,8/5/2024,Dr. Kapoor
+1046,Ritvik Lad,47,Male,Migraine,Naproxen,400mg,Nausea,Partially Recovered,12/12/2024,Dr. Mehta
+1047,Uthkarsh Iyengar,46,Male,Migraine,Naproxen,10mg,Partially Recoveredne,Fully Recovered,12/30/2024,Dr. Joshi
+1048,Gatik Dhaliwal,71,Male,Migraine,Sumatriptan,100mg,Acidity,Partially Recovered,7/30/2024,Dr. Iyer
+1049,Hansh Gara,19,Male,Fever,Ibuprofen,850mg,Tremors,Fully Recovered,4/6/2026,Dr. Kapoor
+1050,Lakshit Gupta,57,Male,Migraine,Naproxen,100mg,Dry Mouth,Partially Recovered,1/26/2026,Dr. Verma
+1051,Zoya Yogi,75,Female,Asthma,Salbutamol,5mg,Rash,Fully Recovered,2/18/2025,Dr. Joshi
+1052,Darshit Koshy,36,Female,Depression,Fluoxetine,650mg,Rash,Fully Recovered,8/10/2025,Dr. Singh
+1053,AFully Recoveredha Wali,30,Female,Migraine,Naproxen,5mg,Tremors,Fully Recovered,5/1/2026,Dr. Singh
+1054,Divit Shan,38,Male,Cold,Paracetamol,5mg,Tremors,Fully Recovered,11/10/2024,Dr. Joshi
+1055,Shaan Bhatnagar,66,Female,Diabetes,Metformin,650mg,Stomach Pain,Partially Recovered,3/15/2026,Dr. Arora
+1056,Sara Jhaveri,49,Female,Infection,Doxycycline,10mg,Stomach Pain,Fully Recovered,6/23/2024,Dr. Kapoor
+1057,Diya Hayer,46,Male,Fever,Paracetamol,10mg,Rash,Fully Recovered,4/20/2025,Dr. Joshi
+1058,Nayantara ShePartially Recoveredy,51,Male,Diabetes,Insulin,250mg,Rash,Partially Recovered,2/15/2026,Dr. Joshi
+1059,Rohan Loyal,47,Male,Depression,Sertraline,5mg,Headache,Partially Recovered,2/22/2026,Dr. Sharma
+1060,Alia Sangha,38,Male,Fever,Ibuprofen,25mg,Partially Recoveredne,Partially Recovered,11/24/2024,Dr. Sharma
+1061,Nitya Ahluwalia,48,Male,Asthma,Salbutamol,850mg,Acidity,Fully Recovered,4/8/2025,Dr. Sharma
+1062,Hiran Bhardwaj,47,Male,Blood Pressure,Amlodipine,25mg,Nausea,Fully Recovered,11/24/2024,Dr. Singh
+1063,Vaibhav Jhaveri,71,Male,Asthma,Budesonide,10mg,Partially Recoveredne,Partially Recovered,9/16/2025,Dr. Verma
+1064,Amira Kara,23,Female,Anxiety,Escitalopram,100mg,Rash,Fully Recovered,6/26/2024,Dr. Kapoor
+1065,Divyansh Sodhi,53,Female,Cold,Paracetamol,50mg,Dry Mouth,Fully Recovered,8/18/2025,Dr. Kapoor
+1066,Shalv Samra,50,Male,Migraine,Naproxen,650mg,Tremors,Partially Recovered,6/5/2024,Dr. Verma
+1067,Hrishita Ganesan,50,Female,Asthma,Budesonide,10mg,Headache,Partially Recovered,11/6/2024,Dr. Kapoor
+1068,Saksham Vasa,53,Female,Allergy,Loratadine,25mg,Acidity,Partially Recovered,7/9/2024,Dr. Verma
+1069,Yuvaan Handa,31,Male,Anxiety,Sertraline,650mg,Sleepiness,Fully Recovered,10/27/2025,Dr. Arora
+1070,AFully Recoveredha Maharaj,20,Female,Migraine,Sumatriptan,5mg,Nausea,Fully Recovered,6/28/2025,Dr. Joshi
+1071,Lakshit Tata,55,Female,Fever,Ibuprofen,250mg,Acidity,Fully Recovered,7/13/2025,Dr. Verma
+1072,Gatik Barad,68,Female,Asthma,Budesonide,850mg,Fatigue,Partially Recovered,1/30/2025,Dr. Sharma
+1073,Hansh Savant,56,Male,Diabetes,Insulin,10mg,Dry Mouth,Partially Recovered,12/15/2024,Dr. Kapoor
+1074,Dishani Devi,62,Male,Anxiety,Escitalopram,25mg,Nausea,Partially Recovered,5/31/2025,Dr. Singh
+1075,Damini Sarna,62,Female,Fever,Ibuprofen,500mg,Fatigue,Partially Recovered,4/8/2026,Dr. Kapoor
+1076,Lagan Bobal,24,Male,Depression,Sertraline,100mg,Stomach Pain,Fully Recovered,9/29/2025,Dr. Arora
+1077,Indrajit Chaudhari,41,Female,Fever,Ibuprofen,5mg,Dry Mouth,Fully Recovered,2/14/2026,Dr. Singh
+1078,Jhanvi Boase,19,Female,Depression,Fluoxetine,10mg,Nausea,Partially Recovered,7/8/2025,Dr. Joshi
+1079,Zeeshan Chandran,32,Female,Allergy,Cetirizine,50mg,Vomiting,Fully Recovered,1/2/2026,Dr. Singh
+1080,Anika Johal,38,Male,Asthma,Budesonide,10mg,Acidity,Partially Recovered,9/8/2025,Dr. Kapoor
+1081,Vihaan Sridhar,39,Female,Depression,Fluoxetine,250mg,Dry Mouth,Partially Recovered,6/6/2025,Dr. Verma
+1082,Yasmin Rana,33,Female,Blood Pressure,Losartan,500mg,Tremors,Fully Recovered,2/6/2026,Dr. Singh
+1083,Aniruddh Bora,18,Male,Asthma,Salbutamol,10mg,Nausea,Partially Recovered,10/7/2025,Dr. Verma
+1084,Himmat Bhargava,18,Male,Diabetes,Insulin,250mg,Fatigue,Fully Recovered,11/3/2024,Dr. Verma
+1085,Taran Tara,62,Female,Anxiety,Sertraline,650mg,Nausea,Partially Recovered,3/23/2025,Dr. Singh
+1086,Aradhya Krishnan,49,Female,Fever,Paracetamol,100mg,Headache,Partially Recovered,1/1/2025,Dr. Sharma
+1087,Reyansh Butala,69,Male,Infection,Doxycycline,100mg,Tremors,Fully Recovered,5/6/2025,Dr. Iyer
+1088,Sana Rama,38,Male,Blood Pressure,Amlodipine,10mg,Headache,Partially Recovered,9/24/2025,Dr. Verma
+1089,Saira Jani,33,Female,Depression,Fluoxetine,10mg,Vomiting,Fully Recovered,11/30/2025,Dr. Mehta
+1090,Sumer Sha,69,Female,Diabetes,Metformin,25mg,Dry Mouth,Fully Recovered,1/25/2026,Dr. Joshi
+1091,Dharmajan Lall,19,Male,Blood Pressure,Amlodipine,650mg,Vomiting,Partially Recovered,3/21/2026,Dr. Kapoor
+1092,Ritvik Dara,72,Male,Asthma,Salbutamol,5mg,Partially Recoveredne,Partially Recovered,10/18/2025,Dr. Verma
+1093,Zeeshan Chopra,26,Male,Fever,Ibuprofen,50mg,Stomach Pain,Partially Recovered,8/22/2025,Dr. Iyer
+1094,Zaina Saran,64,Male,Anxiety,Escitalopram,850mg,Dry Mouth,Fully Recovered,9/11/2025,Dr. Iyer
+1095,Aaina Trivedi,74,Female,Allergy,Loratadine,500mg,Nausea,Fully Recovered,2/3/2025,Dr. Sharma
+1096,Diya Tata,53,Female,Diabetes,Insulin,50mg,Fatigue,Fully Recovered,10/18/2024,Dr. Kapoor
+1097,Vardaniya Sampath,38,Male,Anxiety,Sertraline,25mg,Dry Mouth,Partially Recovered,4/28/2025,Dr. Singh
+1098,Miraan Tank,53,Female,Diabetes,Metformin,400mg,Partially Recoveredne,Partially Recovered,12/29/2025,Dr. Verma
+1099,Kiaan Ganguly,23,Male,Allergy,Cetirizine,5mg,Vomiting,Fully Recovered,6/6/2025,Dr. Joshi
+1100,Pihu Mangat,34,Female,Depression,Sertraline,400mg,Rash,Partially Recovered,4/14/2026,Dr. Singh
+1101,Hansh Ganguly,56,Female,Asthma,Salbutamol,50mg,Dizziness,Partially Recovered,3/9/2026,Dr. Iyer
+1102,Dishani Soman,25,Male,Infection,Doxycycline,850mg,Sleepiness,Fully Recovered,8/16/2025,Dr. Singh
+1103,Bhavin Krishnan,26,Female,Depression,Fluoxetine,10mg,Dry Mouth,Partially Recovered,4/14/2025,Dr. Singh
+1104,Kiara Butala,35,Female,Allergy,Loratadine,25mg,Stomach Pain,Fully Recovered,11/26/2024,Dr. Arora
+1105,Mohanlal Mallick,26,Male,Diabetes,Metformin,400mg,Nausea,Partially Recovered,9/12/2024,Dr. Joshi
+1106,Nakul Raj,43,Male,Fever,Paracetamol,250mg,Sleepiness,Partially Recovered,1/8/2026,Dr. Kapoor
+1107,Shalv Lalla,29,Female,Diabetes,Metformin,650mg,Stomach Pain,Fully Recovered,5/13/2025,Dr. Mehta
+1108,Farhan Lalla,45,Female,Allergy,Cetirizine,500mg,Dry Mouth,Fully Recovered,5/14/2025,Dr. Verma
+1109,Ryan Sharma,75,Female,Fever,Ibuprofen,400mg,Tremors,Partially Recovered,8/10/2024,Dr. Arora
+1110,Nakul Karnik,23,Female,Blood Pressure,Losartan,850mg,Headache,Fully Recovered,2/26/2025,Dr. Sharma
+1111,Baiju Tara,48,Female,Anxiety,Sertraline,50mg,Acidity,Partially Recovered,3/5/2026,Dr. Mehta
+1112,Hunar Sule,75,Female,Fever,Ibuprofen,400mg,Dry Mouth,Partially Recovered,8/11/2024,Dr. Singh
+1113,Saira Luthra,66,Male,Migraine,Sumatriptan,500mg,Vomiting,Fully Recovered,10/26/2024,Dr. Verma
+1114,Aradhya Bobal,30,Female,Diabetes,Metformin,5mg,Rash,Fully Recovered,7/31/2024,Dr. Arora
+1115,Samaira Gokhale,63,Male,Fever,Ibuprofen,400mg,Acidity,Partially Recovered,2/14/2025,Dr. Kapoor
+1116,Farhan Bumb,45,Female,Asthma,Salbutamol,100mg,Sleepiness,Partially Recovered,3/13/2026,Dr. Singh
+1117,Myra Iyengar,43,Male,Cold,Paracetamol,100mg,Headache,Fully Recovered,9/20/2024,Dr. Verma
+1118,Kimaya Deep,23,Male,Anxiety,Escitalopram,250mg,Dizziness,Partially Recovered,4/8/2026,Dr. Singh
+1119,Nakul Jayaraman,39,Male,Allergy,Cetirizine,650mg,Acidity,Partially Recovered,9/15/2024,Dr. Kapoor
+1120,Renee Bhatti,43,Male,Asthma,Salbutamol,25mg,Acidity,Fully Recovered,11/22/2025,Dr. Arora
+1121,Biju Buch,19,Female,Depression,Fluoxetine,5mg,Dizziness,Partially Recovered,10/26/2024,Dr. Kapoor
+1122,Riya Biswas,66,Male,Blood Pressure,Amlodipine,10mg,Vomiting,Partially Recovered,6/16/2024,Dr. Verma
+1123,Rhea Jha,32,Male,Anxiety,Sertraline,10mg,Dry Mouth,Partially Recovered,10/13/2024,Dr. Sharma
+1124,Uthkarsh Bhatia,57,Female,Allergy,Loratadine,10mg,Vomiting,Fully Recovered,11/30/2025,Dr. Sharma
+1125,Shamik Varghese,68,Male,Allergy,Cetirizine,400mg,Partially Recoveredne,Fully Recovered,8/26/2024,Dr. Mehta
+1126,Yashvi Bali,40,Female,Allergy,Loratadine,50mg,Headache,Partially Recovered,10/7/2024,Dr. Sharma
+1127,Charvi Cherian,52,Female,Infection,Azithromycin,10mg,Partially Recoveredne,Partially Recovered,4/23/2026,Dr. Sharma
+1128,Renee Chandra,28,Female,Cold,Ibuprofen,25mg,Sleepiness,Fully Recovered,9/7/2024,Dr. Singh
+1129,Farhan Upadhyay,73,Male,Anxiety,Sertraline,850mg,Headache,Partially Recovered,3/27/2025,Dr. Verma
+1130,Shlok Madan,21,Female,Asthma,Budesonide,650mg,Nausea,Fully Recovered,3/16/2026,Dr. Kapoor
+1131,Manjari Roy,28,Male,Blood Pressure,Amlodipine,10mg,Acidity,Partially Recovered,6/18/2024,Dr. Joshi
+1132,Kaira Bhardwaj,60,Female,Cold,Ibuprofen,250mg,Acidity,Partially Recovered,8/12/2024,Dr. Verma
+1133,Tejas Rajagopalan,31,Male,Blood Pressure,Amlodipine,10mg,Headache,Partially Recovered,12/18/2024,Dr. Joshi
+1134,Zain Chander,19,Male,Allergy,Cetirizine,5mg,Fatigue,Fully Recovered,12/19/2025,Dr. Iyer
+1135,Tara Barad,56,Female,Infection,Doxycycline,500mg,Sleepiness,Fully Recovered,1/15/2026,Dr. Iyer
+1136,Kaira Sanghvi,57,Female,Anxiety,Escitalopram,250mg,Tremors,Fully Recovered,9/16/2025,Dr. Kapoor
+1137,Jivika Deol,40,Female,Migraine,Sumatriptan,25mg,Vomiting,Partially Recovered,1/15/2025,Dr. Iyer
+1138,Nirvaan Zachariah,44,Female,Anxiety,Sertraline,500mg,Sleepiness,Fully Recovered,12/20/2025,Dr. Arora
+1139,Heer Rastogi,66,Female,Fever,Ibuprofen,250mg,Headache,Fully Recovered,12/31/2025,Dr. Joshi
+1140,Nirvi Andra,64,Male,Anxiety,Sertraline,250mg,Dizziness,Fully Recovered,3/19/2026,Dr. Singh
+1141,Anay Dani,53,Male,Allergy,Cetirizine,250mg,Tremors,Fully Recovered,12/22/2024,Dr. Mehta
+1142,Kanav Mander,45,Female,Cold,Paracetamol,650mg,Stomach Pain,Fully Recovered,5/9/2025,Dr. Singh
+1143,Onkar Comar,24,Female,Depression,Sertraline,25mg,Rash,Fully Recovered,2/14/2026,Dr. Singh
+1144,Ela Jhaveri,69,Male,Allergy,Cetirizine,400mg,Acidity,Partially Recovered,7/14/2025,Dr. Verma
+1145,Lagan Ganesh,53,Male,Asthma,Salbutamol,500mg,Dizziness,Fully Recovered,12/6/2025,Dr. Sharma
+1146,Shamik Mand,49,Female,Blood Pressure,Amlodipine,25mg,Vomiting,Fully Recovered,5/11/2025,Dr. Verma
+1147,Kiaan Randhawa,34,Female,Allergy,Cetirizine,10mg,Dry Mouth,Partially Recovered,10/31/2024,Dr. Joshi
+1148,Ahana  Garg,42,Male,Depression,Fluoxetine,850mg,Partially Recoveredne,Partially Recovered,1/17/2025,Dr. Verma
+1149,Aarav Samra,43,Female,Asthma,Salbutamol,250mg,Dizziness,Partially Recovered,12/24/2024,Dr. Arora
+1150,Chirag Divan,48,Female,Migraine,Naproxen,850mg,Headache,Partially Recovered,6/2/2024,Dr. Arora
+1151,Riya Saran,30,Male,Diabetes,Metformin,650mg,Dry Mouth,Fully Recovered,5/11/2026,Dr. Joshi
+1152,Hazel Sahni,72,Female,Migraine,Sumatriptan,250mg,Acidity,Partially Recovered,1/17/2025,Dr. Iyer
+1153,Inaaya  Bera,38,Male,Migraine,Naproxen,100mg,Partially Recoveredne,Partially Recovered,5/22/2025,Dr. Iyer
+1154,Nitya Wadhwa,23,Female,Cold,Paracetamol,10mg,Headache,Partially Recovered,2/19/2026,Dr. Arora
+1155,Ojas Loyal,52,Male,Fever,Paracetamol,400mg,Headache,Fully Recovered,9/7/2024,Dr. Arora
+1156,Khushi Kakar,23,Female,Anxiety,Escitalopram,500mg,Nausea,Partially Recovered,10/15/2024,Dr. Singh
+1157,Pranay Seshadri,42,Male,Asthma,Budesonide,25mg,Tremors,Partially Recovered,3/23/2026,Dr. Verma
+1158,Trisha Hayer,32,Male,Cold,Ibuprofen,50mg,Rash,Partially Recovered,5/11/2025,Dr. Mehta
+1159,Vihaan Sethi,75,Female,Infection,Azithromycin,10mg,Nausea,Fully Recovered,3/25/2025,Dr. Singh
+1160,Adira Shah,70,Male,Anxiety,Escitalopram,50mg,Vomiting,Fully Recovered,5/2/2025,Dr. Singh
+1161,Pari Bumb,49,Male,Asthma,Budesonide,650mg,Dry Mouth,Fully Recovered,1/12/2026,Dr. Singh
+1162,Kabir Bhandari,20,Male,Cold,Ibuprofen,400mg,Vomiting,Partially Recovered,7/19/2024,Dr. Verma
+1163,Saanvi Khatri,43,Male,Depression,Sertraline,400mg,Dry Mouth,Fully Recovered,10/29/2024,Dr. Arora
+1164,Ivan Bir,18,Male,Depression,Fluoxetine,250mg,Headache,Fully Recovered,5/28/2025,Dr. Mehta
+1165,Bhavin Shah,68,Female,Depression,Sertraline,650mg,Tremors,Partially Recovered,1/15/2026,Dr. Iyer
+1166,Piya Wadhwa,55,Male,Depression,Sertraline,850mg,Partially Recoveredne,Fully Recovered,9/12/2024,Dr. Joshi
+1167,Tarini Sachar,51,Male,Anxiety,Escitalopram,10mg,Fatigue,Partially Recovered,4/19/2025,Dr. Mehta
+1168,Raunak Chandra,32,Male,Migraine,Naproxen,850mg,Nausea,Partially Recovered,2/24/2026,Dr. Joshi
+1169,Ojas Sridhar,30,Female,Migraine,Naproxen,250mg,Headache,Fully Recovered,1/25/2026,Dr. Verma
+1170,Damini Bajwa,53,Female,Blood Pressure,Amlodipine,100mg,Vomiting,Fully Recovered,9/17/2024,Dr. Singh
+1171,Madhav Keer,62,Female,Diabetes,Metformin,850mg,Dry Mouth,Partially Recovered,11/26/2024,Dr. Iyer
+1172,Dishani Shukla,35,Male,Depression,Fluoxetine,650mg,Fatigue,Partially Recovered,4/16/2026,Dr. Joshi
+1173,Aradhya Dhar,35,Female,Allergy,Loratadine,250mg,Sleepiness,Partially Recovered,2/16/2026,Dr. Sharma
+1174,Tarini Warrior,18,Female,Allergy,Cetirizine,5mg,Stomach Pain,Fully Recovered,7/16/2024,Dr. Verma
+1175,Taran Deshmukh,23,Male,Anxiety,Sertraline,10mg,Headache,Fully Recovered,9/3/2025,Dr. Verma
+1176,Neysa Chakrabarti,67,Female,Blood Pressure,Amlodipine,100mg,Stomach Pain,Partially Recovered,12/24/2024,Dr. Joshi
+1177,Kiara Bahl,60,Male,Allergy,Cetirizine,400mg,Vomiting,Partially Recovered,11/23/2024,Dr. Kapoor
+1178,Advika Barman,23,Female,Anxiety,Escitalopram,650mg,Nausea,Partially Recovered,6/17/2024,Dr. Verma
+1179,Jhanvi Dhar,46,Male,Allergy,Cetirizine,250mg,Dry Mouth,Partially Recovered,10/9/2025,Dr. Verma
+1180,Zeeshan Dar,61,Female,Diabetes,Insulin,5mg,Partially Recoveredne,Fully Recovered,7/7/2024,Dr. Iyer
+1181,Ehsaan Wable,67,Male,Migraine,Naproxen,850mg,Headache,Partially Recovered,8/31/2025,Dr. Sharma
+1182,Jiya Batta,66,Male,Diabetes,Insulin,10mg,Dry Mouth,Fully Recovered,7/19/2025,Dr. Verma
+1183,Madhup Mani,68,Female,Migraine,Sumatriptan,250mg,Sleepiness,Fully Recovered,12/16/2025,Dr. Kapoor
+1184,Kavya Varughese,58,Female,Asthma,Budesonide,10mg,Partially Recoveredne,Partially Recovered,7/8/2025,Dr. Singh
+1185,Hrishita Behl,40,Male,Diabetes,Insulin,5mg,Sleepiness,Fully Recovered,6/28/2025,Dr. Mehta
+1186,JaFully Recoveredh Sibal,55,Female,Migraine,Naproxen,10mg,Rash,Partially Recovered,8/29/2024,Dr. Sharma
+1187,Zara Kothari,49,Male,Infection,Doxycycline,50mg,Rash,Partially Recovered,10/29/2024,Dr. Joshi
+1188,Bhavin Sethi,69,Female,Infection,Azithromycin,10mg,Fatigue,Partially Recovered,7/26/2024,Dr. Sharma
+1189,Rania Doshi,47,Male,Cold,Ibuprofen,10mg,Sleepiness,Partially Recovered,4/22/2026,Dr. Joshi
+1190,Oorja Kothari,39,Female,Migraine,Naproxen,400mg,Stomach Pain,Fully Recovered,4/19/2026,Dr. Sharma
+1191,Dishani Gokhale,23,Female,Fever,Ibuprofen,400mg,Partially Recoveredne,Fully Recovered,11/27/2025,Dr. Joshi
+1192,Bhamini Sehgal,21,Male,Infection,Azithromycin,50mg,Fatigue,Partially Recovered,5/14/2026,Dr. Iyer
+1193,Armaan Hegde,68,Male,Blood Pressure,Amlodipine,50mg,Nausea,Partially Recovered,11/27/2025,Dr. Mehta
+1194,Ojas Chada,32,Male,Diabetes,Insulin,400mg,Dry Mouth,Fully Recovered,3/20/2025,Dr. Iyer
+1195,Akarsh Krishna,23,Male,Infection,Azithromycin,5mg,Acidity,Fully Recovered,4/29/2025,Dr. Verma
+1196,Tara Rao,70,Female,Fever,Ibuprofen,250mg,Fatigue,Partially Recovered,3/5/2026,Dr. Iyer
+1197,Devansh Dutt,25,Female,Allergy,Cetirizine,50mg,Fatigue,Fully Recovered,1/20/2025,Dr. Arora
+1198,Jiya Rana,36,Female,Anxiety,Escitalopram,5mg,Dizziness,Fully Recovered,1/22/2026,Dr. Mehta
+1199,Madhav Uppal,60,Female,Allergy,Loratadine,500mg,Partially Recoveredne,Fully Recovered,9/21/2025,Dr. Verma
+1200,Vardaniya Wali,56,Male,Diabetes,Insulin,25mg,Rash,Partially Recovered,8/2/2025,Dr. Kapoor
+1201,Alia Sheth,59,Female,Infection,Azithromycin,50mg,Tremors,Fully Recovered,2/8/2026,Dr. Mehta
+1202,Amani Kanda,46,Female,Cold,Paracetamol,10mg,Dizziness,Partially Recovered,12/4/2024,Dr. Mehta
+1203,Advika Mandal,52,Female,Depression,Sertraline,5mg,Dry Mouth,Partially Recovered,6/10/2025,Dr. Kapoor
+1204,Ehsaan Behl,36,Male,Fever,Ibuprofen,250mg,Headache,Partially Recovered,5/3/2025,Dr. Singh
+1205,Farhan Bawa,61,Female,Asthma,Budesonide,100mg,Dry Mouth,Fully Recovered,12/3/2025,Dr. Joshi
+1206,Keya Chad,25,Female,Allergy,Cetirizine,25mg,Vomiting,Fully Recovered,11/5/2024,Dr. Joshi
+1207,Shaan Soni,69,Female,Infection,Azithromycin,650mg,Partially Recoveredne,Fully Recovered,12/13/2025,Dr. Verma
+1208,Dhanush Sagar,28,Male,Blood Pressure,Amlodipine,650mg,Nausea,Partially Recovered,12/8/2025,Dr. Sharma
+1209,Ivan Hari,22,Female,Infection,Azithromycin,400mg,Partially Recoveredne,Partially Recovered,3/9/2026,Dr. Arora
+1210,Oorja Dass,55,Female,Fever,Paracetamol,400mg,Dizziness,Partially Recovered,8/11/2024,Dr. Singh
+1211,Eva Dutt,56,Female,Asthma,Salbutamol,50mg,Rash,Partially Recovered,5/23/2025,Dr. Mehta
+1212,Faiyaz Chahal,24,Male,Depression,Fluoxetine,50mg,Stomach Pain,Fully Recovered,2/5/2025,Dr. Mehta
+1213,Himmat Yohannan,32,Female,Anxiety,Escitalopram,5mg,Nausea,Fully Recovered,12/4/2024,Dr. Sharma
+1214,Lakshay Ramesh,33,Male,Migraine,Sumatriptan,50mg,Headache,Fully Recovered,7/1/2025,Dr. Verma
+1215,Divij Ramakrishnan,63,Male,Fever,Ibuprofen,100mg,Partially Recoveredne,Fully Recovered,11/2/2024,Dr. Iyer
+1216,Myra Dass,46,Male,Migraine,Naproxen,10mg,Vomiting,Partially Recovered,1/12/2026,Dr. Joshi
+1217,Faiyaz Sane,57,Male,Anxiety,Escitalopram,100mg,Fatigue,Fully Recovered,6/8/2025,Dr. Kapoor
+1218,Mishti Baria,61,Male,Diabetes,Metformin,25mg,Stomach Pain,Partially Recovered,5/22/2026,Dr. Arora
+1219,Kashvi Khanna,60,Male,Migraine,Naproxen,10mg,Rash,Fully Recovered,3/8/2025,Dr. Joshi
+1220,Ishaan Balay,61,Male,Allergy,Loratadine,250mg,Vomiting,Fully Recovered,11/29/2025,Dr. Kapoor
+1221,Madhup Wadhwa,20,Female,Anxiety,Sertraline,500mg,Tremors,Fully Recovered,5/19/2026,Dr. Iyer
+1222,Kavya Gokhale,68,Female,Asthma,Budesonide,250mg,Sleepiness,Fully Recovered,1/9/2025,Dr. Joshi
+1223,Amira Ramaswamy,41,Male,Infection,Azithromycin,50mg,Dizziness,Partially Recovered,9/26/2024,Dr. Sharma
+1224,Anaya Sibal,50,Male,Blood Pressure,Losartan,100mg,Dizziness,Partially Recovered,7/31/2025,Dr. Verma
+1225,Urvi Dhawan,41,Female,Depression,Fluoxetine,100mg,Rash,Fully Recovered,7/6/2025,Dr. Joshi
+1226,Vaibhav Choudhury,58,Female,Blood Pressure,Amlodipine,50mg,Stomach Pain,Fully Recovered,8/9/2025,Dr. Singh
+1227,Arnav Wable,24,Female,Blood Pressure,Losartan,250mg,Acidity,Partially Recovered,10/3/2025,Dr. Arora
+1228,Sahil Raju,44,Male,Asthma,Salbutamol,25mg,Dizziness,Partially Recovered,7/28/2024,Dr. Kapoor
+1229,Jayan Gola,58,Male,Asthma,Budesonide,250mg,Acidity,Fully Recovered,12/17/2024,Dr. Singh
+1230,Shray Karnik,71,Male,Anxiety,Escitalopram,250mg,Rash,Fully Recovered,7/3/2024,Dr. Sharma
+1231,Adah Gaba,55,Male,Cold,Paracetamol,850mg,Dizziness,Fully Recovered,4/14/2026,Dr. Iyer
+1232,Nakul Kala,49,Male,Cold,Ibuprofen,50mg,Acidity,Fully Recovered,11/30/2024,Dr. Verma
+1233,Vihaan Sathe,67,Female,Infection,Doxycycline,25mg,Headache,Fully Recovered,4/27/2025,Dr. Joshi
+1234,Nitara Mangat,65,Male,Anxiety,Sertraline,25mg,Vomiting,Fully Recovered,10/13/2025,Dr. Singh
+1235,Lavanya Kumer,31,Female,Migraine,Naproxen,100mg,Headache,Partially Recovered,11/30/2025,Dr. Verma
+1236,Devansh Ratti,44,Female,Migraine,Sumatriptan,5mg,Dizziness,Fully Recovered,3/5/2026,Dr. Arora
+1237,Samarth Ganesh,74,Female,Fever,Ibuprofen,850mg,Partially Recoveredne,Partially Recovered,11/21/2024,Dr. Mehta
+1238,Tarini Boase,65,Male,Diabetes,Insulin,100mg,Stomach Pain,Fully Recovered,9/15/2024,Dr. Kapoor
+1239,Onkar Dixit,19,Female,Migraine,Naproxen,50mg,Stomach Pain,Fully Recovered,7/15/2025,Dr. Mehta
+1240,Rohan Dutta,19,Female,Infection,Doxycycline,850mg,Headache,Fully Recovered,8/24/2025,Dr. Kapoor
+1241,Samaira Saraf,56,Female,Asthma,Salbutamol,5mg,Acidity,Partially Recovered,11/13/2024,Dr. Sharma
+1242,Ivana Dhaliwal,28,Female,Fever,Ibuprofen,10mg,Headache,Fully Recovered,12/3/2025,Dr. Sharma
+1243,Ojas Vasa,34,Male,Infection,Doxycycline,650mg,Stomach Pain,Fully Recovered,8/9/2025,Dr. Sharma
+1244,Anahita Chandra,63,Male,Blood Pressure,Amlodipine,10mg,Stomach Pain,Fully Recovered,4/4/2025,Dr. Joshi
+1245,Zara Balay,56,Female,Allergy,Loratadine,400mg,Fatigue,Fully Recovered,3/12/2026,Dr. Sharma
+1246,Keya Viswanathan,51,Female,Allergy,Cetirizine,50mg,Rash,Partially Recovered,12/31/2024,Dr. Mehta
+1247,Nayantara Handa,20,Female,Migraine,Naproxen,250mg,Dizziness,Fully Recovered,8/8/2025,Dr. Arora
+1248,Renee Toor,25,Male,Migraine,Sumatriptan,100mg,Headache,Partially Recovered,5/7/2025,Dr. Singh
+1249,Kiaan Saran,65,Male,Migraine,Sumatriptan,500mg,Stomach Pain,Fully Recovered,9/4/2024,Dr. Arora
+1250,Nitara Deep,27,Female,Fever,Ibuprofen,50mg,Headache,Partially Recovered,10/31/2024,Dr. Iyer
+1251,Rania Bhardwaj,67,Male,Depression,Sertraline,50mg,Tremors,Partially Recovered,6/6/2025,Dr. Verma
+1252,Shanaya Apte,64,Female,Cold,Ibuprofen,100mg,Vomiting,Partially Recovered,3/17/2026,Dr. Singh
+1253,Vedika Badal,46,Female,Cold,Paracetamol,10mg,Acidity,Fully Recovered,8/21/2024,Dr. Sharma
+1254,Keya Srinivas,59,Male,Allergy,Cetirizine,400mg,Stomach Pain,Fully Recovered,9/7/2024,Dr. Singh
+1255,Ivana Ramaswamy,42,Male,Migraine,Naproxen,400mg,Partially Recoveredne,Fully Recovered,9/19/2024,Dr. Verma
+1256,Renee Bhatti,37,Female,Diabetes,Metformin,25mg,Tremors,Partially Recovered,9/26/2025,Dr. Arora
+1257,Miraya Bassi,21,Female,Allergy,Cetirizine,50mg,Vomiting,Fully Recovered,11/28/2025,Dr. Joshi
+1258,Dhanush Basak,34,Male,Anxiety,Sertraline,650mg,Sleepiness,Partially Recovered,4/29/2026,Dr. Sharma
+1259,Priyansh Dara,31,Male,Asthma,Salbutamol,10mg,Partially Recoveredne,Fully Recovered,1/13/2026,Dr. Verma
+1260,Jivika Dhingra,59,Female,Diabetes,Insulin,10mg,Nausea,Fully Recovered,11/23/2024,Dr. Kapoor
+1261,Bhamini Kakar,48,Male,Asthma,Salbutamol,650mg,Rash,Partially Recovered,9/26/2024,Dr. Sharma
+1262,Anya Thakkar,33,Female,Blood Pressure,Amlodipine,100mg,Tremors,Partially Recovered,8/30/2025,Dr. Sharma
+1263,Sara Mand,49,Female,Asthma,Budesonide,100mg,Tremors,Partially Recovered,11/11/2024,Dr. Arora
+1264,Vardaniya Mangat,67,Female,Fever,Paracetamol,850mg,Dry Mouth,Partially Recovered,12/3/2025,Dr. Sharma
+1265,Vihaan Thaman,75,Female,Migraine,Sumatriptan,650mg,Partially Recoveredne,Partially Recovered,3/25/2026,Dr. Mehta
+1266,Ivan Hegde,29,Female,Cold,Paracetamol,250mg,Dry Mouth,Partially Recovered,11/7/2024,Dr. Sharma
+1267,Dharmajan Lata,24,Female,Migraine,Naproxen,650mg,Partially Recoveredne,Fully Recovered,3/2/2026,Dr. Iyer
+1268,Jivika Seth,21,Female,Infection,Doxycycline,250mg,Partially Recoveredne,Fully Recovered,7/21/2024,Dr. Kapoor
+1269,Divij Bhasin,23,Male,Cold,Ibuprofen,5mg,Dry Mouth,Fully Recovered,10/4/2025,Dr. Singh
+1270,Saanvi Lad,44,Male,Anxiety,Sertraline,250mg,Nausea,Fully Recovered,11/3/2024,Dr. Arora
+1271,Umang Bahri,21,Male,Blood Pressure,Losartan,50mg,Dizziness,Partially Recovered,5/18/2025,Dr. Singh
+1272,Khushi Mander,73,Male,Asthma,Salbutamol,400mg,Fatigue,Fully Recovered,5/6/2026,Dr. Arora
+1273,Miraan Salvi,34,Male,Allergy,Loratadine,650mg,Dizziness,Partially Recovered,12/3/2025,Dr. Iyer
+1274,Divyansh Sem,44,Male,Migraine,Naproxen,100mg,Dizziness,Fully Recovered,8/3/2025,Dr. Sharma
+1275,Priyansh Divan,74,Male,Diabetes,Insulin,10mg,Acidity,Partially Recovered,12/3/2025,Dr. Verma
+1276,Saira Khurana,50,Female,Fever,Paracetamol,650mg,Headache,Partially Recovered,8/31/2024,Dr. Joshi
+1277,Umang Dugar,27,Male,Anxiety,Escitalopram,500mg,Stomach Pain,Partially Recovered,3/29/2025,Dr. Kapoor
+1278,Ranbir Buch,73,Female,Blood Pressure,Amlodipine,850mg,Vomiting,Partially Recovered,9/25/2025,Dr. Verma
+1279,Aayush Gokhale,36,Male,Infection,Azithromycin,650mg,Stomach Pain,Partially Recovered,12/16/2024,Dr. Verma
+1280,Yashvi Rout,67,Female,Asthma,Budesonide,500mg,Dizziness,Fully Recovered,11/30/2025,Dr. Iyer
+1281,Saksham Babu,69,Female,Cold,Paracetamol,650mg,Sleepiness,Fully Recovered,4/11/2025,Dr. Joshi
+1282,Jayan Sachar,35,Male,Cold,Ibuprofen,10mg,Stomach Pain,Fully Recovered,9/7/2025,Dr. Iyer
+1283,Arhaan Kaur,52,Male,Infection,Doxycycline,100mg,Nausea,Fully Recovered,3/8/2025,Dr. Arora
+1284,Jivika Thaman,73,Male,Allergy,Loratadine,850mg,Fatigue,Fully Recovered,9/17/2025,Dr. Mehta
+1285,Yuvraj  Sengupta,74,Female,Infection,Azithromycin,650mg,Fatigue,Fully Recovered,8/16/2024,Dr. Verma
+1286,Hridaan Kashyap,26,Male,Diabetes,Insulin,500mg,Nausea,Partially Recovered,1/22/2025,Dr. Arora
+1287,Amani Gola,67,Female,Blood Pressure,Amlodipine,500mg,Acidity,Fully Recovered,7/2/2024,Dr. Mehta
+1288,Kavya Chakrabarti,26,Male,Asthma,Budesonide,500mg,Dry Mouth,Fully Recovered,4/21/2025,Dr. Singh
+1289,Aniruddh Joshi,36,Male,Migraine,Sumatriptan,400mg,Rash,Partially Recovered,10/24/2025,Dr. Iyer
+1290,Shaan Wali,74,Female,Diabetes,Metformin,10mg,Dry Mouth,Fully Recovered,12/14/2025,Dr. Mehta
+1291,Umang Krishna,60,Female,Fever,Paracetamol,25mg,Tremors,Partially Recovered,6/20/2024,Dr. Mehta
+1292,Amani Ganesh,54,Male,Cold,Ibuprofen,50mg,Headache,Partially Recovered,12/18/2024,Dr. Iyer
+1293,Damini Iyer,66,Female,Migraine,Sumatriptan,100mg,Nausea,Fully Recovered,6/16/2024,Dr. Joshi
+1294,Zara Kata,42,Male,Blood Pressure,Losartan,400mg,Dizziness,Fully Recovered,3/7/2025,Dr. Kapoor
+1295,Ishita Shanker,58,Male,Anxiety,Escitalopram,650mg,Headache,Partially Recovered,7/25/2025,Dr. Kapoor
+1296,Charvi Thaker,73,Female,Infection,Doxycycline,650mg,Rash,Partially Recovered,1/27/2025,Dr. Sharma
+1297,Baiju Bose,33,Male,Asthma,Salbutamol,250mg,Dry Mouth,Partially Recovered,2/10/2026,Dr. Mehta
+1298,Azad Bhandari,67,Female,Depression,Fluoxetine,100mg,Nausea,Partially Recovered,11/26/2024,Dr. Sharma
+1299,Zeeshan Ahuja,38,Male,Fever,Paracetamol,50mg,Vomiting,Partially Recovered,4/13/2026,Dr. Singh
+1300,Hrishita Brahmbhatt,53,Female,Depression,Sertraline,50mg,Dizziness,Fully Recovered,4/15/2026,Dr. Iyer
+1301,Inaaya  Sen,43,Female,Fever,Paracetamol,500mg,Rash,Fully Recovered,5/4/2025,Dr. Sharma
+1302,Advika Sagar,42,Female,Blood Pressure,Amlodipine,650mg,Acidity,Fully Recovered,2/10/2026,Dr. Arora
+1303,Taimur Setty,25,Female,Cold,Ibuprofen,5mg,Headache,Fully Recovered,8/3/2024,Dr. Singh
+1304,Lavanya Sekhon,25,Male,Cold,Ibuprofen,250mg,Vomiting,Fully Recovered,5/26/2026,Dr. Iyer
+1305,Ishaan Behl,24,Female,Asthma,Budesonide,25mg,Headache,Fully Recovered,10/20/2025,Dr. Sharma
+1306,Arnav Butala,63,Male,Fever,Ibuprofen,500mg,Nausea,Fully Recovered,6/20/2024,Dr. Kapoor
+1307,Rhea D’Alia,73,Female,Blood Pressure,Losartan,850mg,Sleepiness,Fully Recovered,10/21/2025,Dr. Singh
+1308,Anya Mangat,53,Male,Cold,Ibuprofen,850mg,Rash,Partially Recovered,3/16/2026,Dr. Arora
+1309,Ehsaan Chand,72,Male,Asthma,Budesonide,250mg,Dry Mouth,Fully Recovered,10/25/2025,Dr. Arora
+1310,Dhanush Biswas,46,Male,Migraine,Naproxen,250mg,Dizziness,Fully Recovered,6/8/2025,Dr. Kapoor
+1311,Anika Bhagat,36,Male,Depression,Sertraline,650mg,Acidity,Fully Recovered,4/29/2025,Dr. Singh
+1312,Nirvaan Salvi,61,Male,Asthma,Salbutamol,50mg,Dry Mouth,Partially Recovered,8/30/2025,Dr. Singh
+1313,Misha Butala,69,Male,Depression,Fluoxetine,25mg,Vomiting,Fully Recovered,8/3/2025,Dr. Iyer
+1314,Vardaniya Gade,44,Female,Depression,Fluoxetine,500mg,Nausea,Fully Recovered,12/15/2024,Dr. Arora
+1315,Jhanvi Krishnan,75,Female,Cold,Paracetamol,650mg,Sleepiness,Partially Recovered,1/22/2025,Dr. Mehta
+1316,Nishith Koshy,68,Male,Diabetes,Metformin,100mg,Dry Mouth,Fully Recovered,3/1/2026,Dr. Arora
+1317,Adah Sant,67,Female,Infection,Azithromycin,400mg,Sleepiness,Fully Recovered,11/16/2025,Dr. Kapoor
+1318,Advika Bawa,41,Male,Infection,Azithromycin,100mg,Partially Recoveredne,Fully Recovered,11/24/2024,Dr. Kapoor
+1319,Mahika Khare,33,Female,Migraine,Sumatriptan,250mg,Vomiting,Fully Recovered,9/17/2024,Dr. Verma
+1320,Tejas Dugal,32,Male,Allergy,Loratadine,50mg,Tremors,Fully Recovered,6/7/2025,Dr. Verma
+1321,Dhanuk Bajwa,34,Male,Fever,Paracetamol,100mg,Stomach Pain,Partially Recovered,10/2/2024,Dr. Iyer
+1322,Hunar Bahl,54,Male,Diabetes,Insulin,650mg,Dry Mouth,Fully Recovered,12/3/2025,Dr. Iyer
+1323,Elakshi Bandi,49,Female,Depression,Fluoxetine,5mg,Acidity,Fully Recovered,1/15/2026,Dr. Iyer
+1324,Samaira Dave,67,Male,Diabetes,Insulin,10mg,Fatigue,Partially Recovered,2/2/2025,Dr. Iyer
+1325,Vaibhav Tripathi,23,Male,Migraine,Naproxen,50mg,Dry Mouth,Fully Recovered,5/2/2026,Dr. Singh
+1326,Ojas Sengupta,34,Male,Cold,Ibuprofen,650mg,Dizziness,Partially Recovered,4/26/2026,Dr. Iyer
+1327,Raghav Bhat,31,Female,Infection,Azithromycin,500mg,Acidity,Fully Recovered,5/22/2026,Dr. Joshi
+1328,Aradhya Venkatesh,31,Female,Depression,Sertraline,100mg,Vomiting,Fully Recovered,8/28/2025,Dr. Singh
+1329,Himmat Jain,40,Male,Infection,Azithromycin,10mg,Vomiting,Partially Recovered,11/1/2024,Dr. Sharma
+1330,Oorja Ghose,66,Male,Asthma,Salbutamol,5mg,Tremors,Partially Recovered,7/17/2024,Dr. Arora
+1331,Rohan Bera,23,Male,Diabetes,Metformin,50mg,Acidity,Fully Recovered,12/4/2025,Dr. Iyer
+1332,Dhanuk Dhingra,65,Female,Migraine,Naproxen,5mg,Tremors,Partially Recovered,8/20/2024,Dr. Arora
+1333,Miraan Jha,68,Female,Diabetes,Insulin,10mg,Acidity,Fully Recovered,8/3/2025,Dr. Mehta
+1334,Rati Jain,43,Male,Fever,Paracetamol,10mg,Acidity,Fully Recovered,10/5/2025,Dr. Joshi
+1335,Madhup Batta,24,Female,Diabetes,Insulin,850mg,Stomach Pain,Partially Recovered,12/20/2024,Dr. Verma
+1336,Nishith Kar,65,Male,Blood Pressure,Amlodipine,500mg,Vomiting,Fully Recovered,8/30/2025,Dr. Joshi
+1337,Alia Bhakta,74,Female,Cold,Paracetamol,100mg,Headache,Partially Recovered,3/14/2026,Dr. Arora
+1338,Divyansh Seshadri,52,Male,Depression,Fluoxetine,25mg,Nausea,Partially Recovered,2/3/2025,Dr. Sharma
+1339,Indranil Madan,39,Female,Cold,Ibuprofen,500mg,Sleepiness,Fully Recovered,7/17/2025,Dr. Singh
+1340,Devansh Karpe,43,Male,Blood Pressure,Losartan,100mg,Tremors,Partially Recovered,10/25/2024,Dr. Iyer
+1341,Dhruv Edwin,45,Male,Diabetes,Metformin,10mg,Acidity,Partially Recovered,11/8/2024,Dr. Kapoor
+1342,Lakshit Rattan,44,Male,Blood Pressure,Losartan,50mg,Acidity,Fully Recovered,8/19/2024,Dr. Verma
+1343,Prisha Kara,23,Female,Migraine,Naproxen,250mg,Stomach Pain,Fully Recovered,4/16/2026,Dr. Kapoor
+1344,Ryan Rajagopalan,46,Female,Fever,Paracetamol,650mg,Acidity,Fully Recovered,2/14/2025,Dr. Kapoor
+1345,Purab Banerjee,31,Male,Anxiety,Escitalopram,400mg,Stomach Pain,Partially Recovered,10/13/2025,Dr. Iyer
+1346,Umang Bains,51,Male,Asthma,Salbutamol,25mg,Dry Mouth,Partially Recovered,3/29/2025,Dr. Iyer
+1347,Vedika Rao,55,Female,Depression,Sertraline,5mg,Sleepiness,Partially Recovered,7/17/2025,Dr. Singh
+1348,Lavanya Sinha,27,Male,Infection,Azithromycin,400mg,Sleepiness,Fully Recovered,3/31/2026,Dr. Singh
+1349,Stuvan Mahal,48,Female,Anxiety,Escitalopram,500mg,Dry Mouth,Fully Recovered,4/13/2026,Dr. Sharma
+1350,Drishya Bahl,31,Male,Allergy,Loratadine,650mg,Tremors,Fully Recovered,4/11/2025,Dr. Mehta
+1351,Kabir Arya,39,Female,Infection,Doxycycline,650mg,Tremors,Fully Recovered,4/25/2025,Dr. Mehta
+1352,Tara Krish,40,Female,Fever,Ibuprofen,400mg,Stomach Pain,Fully Recovered,7/5/2025,Dr. Singh
+1353,Yuvaan Savant,56,Female,Asthma,Budesonide,500mg,Stomach Pain,Fully Recovered,2/2/2025,Dr. Singh
+1354,Ehsaan Anne,61,Female,Allergy,Loratadine,5mg,Acidity,Fully Recovered,4/3/2025,Dr. Mehta
+1355,Azad Deshpande,27,Female,Diabetes,Insulin,5mg,Sleepiness,Fully Recovered,11/12/2024,Dr. Kapoor
+1356,Vedika Chawla,55,Female,Diabetes,Insulin,500mg,Partially Recoveredne,Fully Recovered,1/31/2025,Dr. Verma
+1357,Jiya Sharaf,72,Female,Blood Pressure,Amlodipine,650mg,Stomach Pain,Partially Recovered,5/12/2025,Dr. Kapoor
+1358,Pranay Ravel,33,Male,Migraine,Naproxen,5mg,Fatigue,Partially Recovered,8/24/2024,Dr. Mehta
+1359,Oorja Soni,58,Female,Infection,Doxycycline,500mg,Fatigue,Fully Recovered,8/23/2025,Dr. Singh
+1360,Tiya Sahni,60,Female,Asthma,Budesonide,850mg,Tremors,Fully Recovered,9/10/2025,Dr. Singh
+1361,Samar Dubey,27,Female,Cold,Ibuprofen,100mg,Headache,Partially Recovered,7/28/2024,Dr. Sharma
+1362,Mohanlal Yogi,33,Male,Diabetes,Insulin,100mg,Stomach Pain,Partially Recovered,11/20/2025,Dr. Joshi
+1363,Advik Sankaran,40,Male,Anxiety,Sertraline,650mg,Tremors,Fully Recovered,10/26/2024,Dr. Kapoor
+1364,Zara Kaul,35,Male,Infection,Azithromycin,50mg,Sleepiness,Fully Recovered,2/15/2025,Dr. Verma
+1365,Yasmin Chatterjee,59,Male,Allergy,Loratadine,50mg,Vomiting,Partially Recovered,3/7/2026,Dr. Kapoor
+1366,Miraya Sura,44,Female,Infection,Azithromycin,850mg,Sleepiness,Partially Recovered,1/18/2026,Dr. Sharma
+1367,Samiha Upadhyay,29,Female,Diabetes,Insulin,400mg,Fatigue,Fully Recovered,3/21/2025,Dr. Sharma
+1368,Nayantara Shroff,34,Male,Anxiety,Sertraline,850mg,Partially Recoveredne,Partially Recovered,9/2/2025,Dr. Iyer
+1369,Pari Mall,58,Female,Fever,Ibuprofen,10mg,Vomiting,Partially Recovered,2/5/2026,Dr. Verma
+1370,Neelofar Kulkarni,31,Male,Infection,Azithromycin,650mg,Nausea,Fully Recovered,1/29/2026,Dr. Singh
+1371,Onkar Deo,70,Male,Diabetes,Metformin,850mg,Sleepiness,Fully Recovered,10/25/2025,Dr. Joshi
+1372,Kabir Datta,37,Male,Migraine,Naproxen,500mg,Fatigue,Partially Recovered,12/8/2024,Dr. Arora
+1373,Chirag Maharaj,47,Male,Migraine,Naproxen,100mg,Headache,Partially Recovered,10/27/2025,Dr. Verma
+1374,Arnav Kaul,65,Female,Fever,Ibuprofen,5mg,Sleepiness,Fully Recovered,10/24/2025,Dr. Mehta
+1375,Alisha Mahajan,30,Male,Fever,Paracetamol,650mg,Fatigue,Partially Recovered,1/31/2025,Dr. Iyer
+1376,Miraya Chakrabarti,25,Female,Infection,Doxycycline,5mg,Acidity,Fully Recovered,11/25/2025,Dr. Verma
+1377,Indrajit Salvi,46,Male,Blood Pressure,Losartan,500mg,Stomach Pain,Partially Recovered,11/7/2025,Dr. Sharma
+1378,Tejas Shankar,46,Female,Cold,Paracetamol,500mg,Sleepiness,Partially Recovered,2/6/2025,Dr. Iyer
+1379,Anya Jayaraman,24,Female,Blood Pressure,Losartan,500mg,Dizziness,Fully Recovered,6/1/2024,Dr. Iyer
+1380,Shayak Wagle,48,Male,Depression,Sertraline,10mg,Tremors,Partially Recovered,4/27/2026,Dr. Iyer
+1381,Taran Issac,44,Male,Allergy,Loratadine,650mg,Rash,Partially Recovered,2/6/2026,Dr. Singh
+1382,Indrajit Tandon,66,Male,Depression,Sertraline,50mg,Nausea,Fully Recovered,1/25/2026,Dr. Sharma
+1383,Vedika Dugal,34,Male,Migraine,Sumatriptan,500mg,Dizziness,Partially Recovered,12/2/2025,Dr. Verma
+1384,Anahi Sem,51,Male,Infection,Doxycycline,25mg,Rash,Fully Recovered,9/19/2025,Dr. Joshi
+1385,Ritvik Dutta,43,Female,Asthma,Salbutamol,850mg,Headache,Partially Recovered,11/15/2024,Dr. Arora
+1386,Vidur Gopal,74,Female,Allergy,Loratadine,400mg,Headache,Fully Recovered,10/4/2025,Dr. Singh
+1387,Miraya Lata,28,Male,Diabetes,Metformin,5mg,Stomach Pain,Partially Recovered,7/17/2025,Dr. Sharma
+1388,Aradhya Warrior,64,Female,Allergy,Loratadine,500mg,Vomiting,Partially Recovered,8/9/2025,Dr. Arora
+1389,Shaan Balan,42,Male,Depression,Sertraline,5mg,Nausea,Fully Recovered,3/4/2025,Dr. Sharma
+1390,Hridaan Dave,28,Female,Blood Pressure,Amlodipine,250mg,Dry Mouth,Fully Recovered,11/21/2024,Dr. Sharma
+1391,Kavya Batra,18,Female,Asthma,Salbutamol,5mg,Tremors,Partially Recovered,1/18/2026,Dr. Arora
+1392,Eshani Kaur,26,Female,Depression,Sertraline,5mg,Rash,Fully Recovered,4/16/2025,Dr. Kapoor
+1393,Alisha Tara,56,Male,Fever,Paracetamol,5mg,Dry Mouth,Fully Recovered,3/15/2025,Dr. Mehta
+1394,Alisha Goel,65,Male,Cold,Paracetamol,100mg,Dry Mouth,Partially Recovered,1/3/2026,Dr. Verma
+1395,Yasmin Bhatia,70,Female,Infection,Azithromycin,650mg,Dry Mouth,Fully Recovered,10/14/2024,Dr. Kapoor
+1396,Alia Kohli,28,Female,Anxiety,Escitalopram,650mg,Dizziness,Partially Recovered,8/27/2024,Dr. Arora
+1397,Badal Randhawa,46,Male,Asthma,Salbutamol,100mg,Dizziness,Fully Recovered,6/7/2025,Dr. Sharma
+1398,Aniruddh Deep,72,Male,Diabetes,Metformin,5mg,Headache,Partially Recovered,11/24/2025,Dr. Iyer
+1399,Vidur Aggarwal,36,Male,Diabetes,Metformin,650mg,Dry Mouth,Fully Recovered,11/30/2025,Dr. Singh
+1400,Shlok Shan,65,Female,Anxiety,Escitalopram,650mg,Rash,Fully Recovered,7/20/2024,Dr. Joshi
+1401,Ela Raja,24,Female,Anxiety,Sertraline,650mg,Dizziness,Fully Recovered,1/15/2026,Dr. Joshi
+1402,Vritika Toor,38,Female,Anxiety,Sertraline,250mg,Partially Recoveredne,Partially Recovered,9/18/2024,Dr. Sharma
+1403,Shray Raval,70,Female,Blood Pressure,Amlodipine,500mg,Vomiting,Partially Recovered,6/20/2025,Dr. Verma
+1404,Suhana Bir,18,Male,Diabetes,Metformin,10mg,Rash,Fully Recovered,7/21/2024,Dr. Iyer
+1405,Abram Bora,48,Male,Allergy,Cetirizine,100mg,Dry Mouth,Partially Recovered,9/28/2025,Dr. Singh
+1406,Dhruv Vasa,45,Male,Allergy,Cetirizine,400mg,Stomach Pain,Partially Recovered,1/12/2026,Dr. Mehta
+1407,Mohanlal Sami,47,Male,Fever,Ibuprofen,400mg,Fatigue,Partially Recovered,3/19/2026,Dr. Iyer
+1408,Arhaan Singh,62,Male,Allergy,Loratadine,25mg,Tremors,Partially Recovered,8/19/2024,Dr. Arora
+1409,Neelofar Solanki,60,Female,Diabetes,Metformin,25mg,Rash,Fully Recovered,7/31/2025,Dr. Joshi
+1410,Ryan Bains,65,Female,Depression,Fluoxetine,500mg,Sleepiness,Fully Recovered,12/27/2024,Dr. Mehta
+1411,Rasha Boase,21,Female,Blood Pressure,Losartan,400mg,Partially Recoveredne,Partially Recovered,10/6/2025,Dr. Iyer
+1412,Aniruddh Sekhon,33,Male,Anxiety,Sertraline,650mg,Partially Recoveredne,Partially Recovered,8/15/2024,Dr. Mehta
+1413,Hansh Sem,23,Male,Depression,Sertraline,850mg,Stomach Pain,Fully Recovered,4/2/2026,Dr. Mehta
+1414,Divij Chacko,21,Male,Asthma,Budesonide,400mg,Dizziness,Partially Recovered,2/7/2026,Dr. Sharma
+1415,Misha Badal,19,Female,Asthma,Budesonide,650mg,Acidity,Fully Recovered,11/26/2025,Dr. Sharma
+1416,Chirag Arya,40,Female,Anxiety,Escitalopram,5mg,Partially Recoveredne,Fully Recovered,10/13/2024,Dr. Joshi
+1417,Ira Kakar,65,Female,Fever,Paracetamol,850mg,Sleepiness,Partially Recovered,1/22/2026,Dr. Iyer
+1418,Kiaan Shroff,23,Female,Asthma,Salbutamol,250mg,Stomach Pain,Partially Recovered,10/28/2024,Dr. Mehta
+1419,Mannat Chad,29,Female,Fever,Paracetamol,850mg,Rash,Fully Recovered,12/1/2024,Dr. Sharma
+1420,Neelofar Gole,18,Female,Asthma,Budesonide,50mg,Dizziness,Partially Recovered,12/18/2024,Dr. Verma
+1421,Aarav Chopra,55,Male,Depression,Fluoxetine,50mg,Nausea,Partially Recovered,4/21/2026,Dr. Arora
+1422,Azad Gara,57,Male,Blood Pressure,Amlodipine,850mg,Headache,Fully Recovered,2/3/2026,Dr. Sharma
+1423,Himmat Balakrishnan,27,Female,Migraine,Sumatriptan,10mg,Nausea,Partially Recovered,1/14/2026,Dr. Singh
+1424,Jhanvi Mannan,24,Male,Diabetes,Metformin,50mg,Dry Mouth,Fully Recovered,12/31/2024,Dr. Joshi
+1425,Darshit Taneja,29,Male,Infection,Azithromycin,10mg,Dry Mouth,Partially Recovered,12/21/2024,Dr. Sharma
+1426,Ela Atwal,46,Female,Blood Pressure,Losartan,500mg,Dizziness,Partially Recovered,6/27/2024,Dr. Joshi
+1427,Nitya Grover,23,Male,Anxiety,Sertraline,100mg,Headache,Fully Recovered,9/21/2025,Dr. Joshi
+1428,Indrajit Sekhon,58,Female,Blood Pressure,Losartan,650mg,Acidity,Partially Recovered,3/3/2025,Dr. Mehta
+1429,Adira Dhar,58,Female,Depression,Sertraline,850mg,Rash,Fully Recovered,9/13/2025,Dr. Sharma
+1430,Dhanush Iyengar,45,Female,Depression,Fluoxetine,850mg,Partially Recoveredne,Fully Recovered,8/28/2024,Dr. Arora
+1431,Nehmat Agate,69,Female,Diabetes,Metformin,250mg,Tremors,Partially Recovered,9/3/2024,Dr. Sharma
+1432,Yuvraj  Ghose,60,Female,Cold,Ibuprofen,100mg,Nausea,Partially Recovered,12/16/2025,Dr. Singh
+1433,Vidur Manda,49,Male,Diabetes,Insulin,10mg,Sleepiness,Partially Recovered,2/23/2026,Dr. Arora
+1434,Farhan Wable,72,Male,Depression,Sertraline,850mg,Vomiting,Partially Recovered,3/31/2025,Dr. Iyer
+1435,Oorja Randhawa,30,Male,Migraine,Sumatriptan,25mg,Fatigue,Partially Recovered,10/16/2025,Dr. Verma
+1436,Mohanlal Mani,63,Male,Anxiety,Escitalopram,5mg,Partially Recoveredne,Partially Recovered,9/10/2025,Dr. Verma
+1437,Rohan Chana,64,Male,Depression,Sertraline,400mg,Stomach Pain,Fully Recovered,6/3/2024,Dr. Sharma
+1438,Samiha Raju,55,Male,Blood Pressure,Losartan,400mg,Fatigue,Fully Recovered,4/11/2026,Dr. Sharma
+1439,Diya Toor,21,Female,Asthma,Budesonide,10mg,Tremors,Partially Recovered,1/31/2026,Dr. Iyer
+1440,Ira Sinha,38,Male,Blood Pressure,Amlodipine,50mg,Rash,Fully Recovered,2/17/2026,Dr. Singh
+1441,Prisha Ravi,54,Male,Allergy,Loratadine,850mg,Partially Recoveredne,Fully Recovered,3/17/2026,Dr. Singh
+1442,Dharmajan Sharaf,56,Male,Fever,Ibuprofen,50mg,Nausea,Partially Recovered,7/29/2025,Dr. Verma
+1443,Riya Ramachandran,36,Female,Allergy,Loratadine,25mg,Dry Mouth,Partially Recovered,1/27/2025,Dr. Kapoor
+1444,Divij Din,71,Male,Fever,Paracetamol,10mg,Partially Recoveredne,Fully Recovered,10/19/2025,Dr. Singh
+1445,Tejas Doctor,46,Female,Diabetes,Insulin,10mg,Nausea,Fully Recovered,7/1/2024,Dr. Kapoor
+1446,Misha Dugar,52,Male,Asthma,Budesonide,500mg,Sleepiness,Partially Recovered,5/14/2025,Dr. Arora
+1447,Mahika Viswanathan,66,Female,Infection,Doxycycline,5mg,Vomiting,Fully Recovered,8/24/2025,Dr. Iyer
+1448,JaFully Recoveredh Vasa,73,Male,Blood Pressure,Losartan,10mg,Vomiting,Partially Recovered,6/3/2024,Dr. Iyer
+1449,Ira Kamdar,34,Female,Asthma,Salbutamol,650mg,Tremors,Fully Recovered,1/12/2025,Dr. Verma
+1450,Baiju Sood,20,Male,Allergy,Loratadine,10mg,Acidity,Partially Recovered,7/31/2024,Dr. Verma
+1451,Eva Salvi,38,Female,Depression,Sertraline,250mg,Fatigue,Partially Recovered,5/28/2025,Dr. Arora
+1452,Aarna Dalal,41,Male,Fever,Ibuprofen,100mg,Headache,Fully Recovered,3/5/2025,Dr. Arora
+1453,Suhana Kara,28,Female,Fever,Paracetamol,500mg,Rash,Fully Recovered,8/25/2024,Dr. Mehta
+1454,Rasha Gokhale,62,Male,Fever,Paracetamol,650mg,Headache,Partially Recovered,7/3/2024,Dr. Kapoor
+1455,Taimur Chander,61,Female,Anxiety,Escitalopram,10mg,Sleepiness,Fully Recovered,7/29/2025,Dr. Joshi
+1456,Indrans Saraf,28,Female,Allergy,Cetirizine,250mg,Dry Mouth,Partially Recovered,10/28/2025,Dr. Arora
+1457,Hiran Rajagopalan,29,Male,Allergy,Loratadine,250mg,Stomach Pain,Fully Recovered,6/3/2024,Dr. Sharma
+1458,Azad Bakshi,33,Male,Infection,Doxycycline,5mg,Dizziness,Fully Recovered,9/9/2024,Dr. Singh
+1459,Samarth Bhatt,26,Female,Depression,Sertraline,500mg,Acidity,Fully Recovered,8/7/2025,Dr. Iyer
+1460,Armaan Jayaraman,33,Female,Migraine,Naproxen,400mg,Stomach Pain,Partially Recovered,8/28/2025,Dr. Verma
+1461,Fateh Barad,21,Male,Diabetes,Insulin,500mg,Tremors,Fully Recovered,11/2/2025,Dr. Singh
+1462,Kashvi Raja,48,Female,Cold,Ibuprofen,25mg,Sleepiness,Fully Recovered,4/6/2025,Dr. Sharma
+1463,Zeeshan Magar,53,Female,Asthma,Budesonide,10mg,Tremors,Partially Recovered,3/9/2025,Dr. Joshi
+1464,Saanvi Kalla,33,Male,Diabetes,Insulin,50mg,Sleepiness,Partially Recovered,5/22/2025,Dr. Verma
+1465,Advik Kurian,40,Male,Anxiety,Escitalopram,10mg,Headache,Partially Recovered,7/6/2024,Dr. Mehta
+1466,Yashvi Aggarwal,66,Female,Fever,Paracetamol,850mg,Stomach Pain,Fully Recovered,9/26/2024,Dr. Iyer
+1467,Samiha Vig,53,Female,Anxiety,Escitalopram,100mg,Partially Recoveredne,Fully Recovered,5/17/2026,Dr. Sharma
+1468,Anya Gupta,70,Male,Anxiety,Sertraline,100mg,Fatigue,Partially Recovered,9/24/2024,Dr. Joshi
+1469,Azad Deol,34,Male,Infection,Doxycycline,100mg,Acidity,Fully Recovered,1/1/2026,Dr. Mehta
+1470,Nitya Badami,43,Male,Blood Pressure,Amlodipine,400mg,Vomiting,Fully Recovered,12/10/2024,Dr. Joshi
+1471,Farhan Shah,28,Male,Infection,Doxycycline,650mg,Partially Recoveredne,Fully Recovered,10/16/2025,Dr. Joshi
+1472,Taimur Gade,41,Female,Anxiety,Escitalopram,400mg,Headache,Fully Recovered,1/21/2025,Dr. Sharma
+1473,Faiyaz Sodhi,20,Female,Asthma,Salbutamol,500mg,Nausea,Fully Recovered,11/26/2024,Dr. Kapoor
+1474,Lagan Mahal,65,Female,Allergy,Loratadine,5mg,Tremors,Partially Recovered,3/8/2025,Dr. Mehta
+1475,Raghav Banerjee,20,Male,Anxiety,Sertraline,25mg,Dizziness,Partially Recovered,5/27/2024,Dr. Joshi
+1476,Yuvaan Warrior,63,Female,Depression,Sertraline,850mg,Nausea,Fully Recovered,9/21/2024,Dr. Sharma
+1477,Keya Rastogi,75,Male,Depression,Sertraline,25mg,Fatigue,Partially Recovered,8/3/2024,Dr. Kapoor
+1478,Priyansh Chaudhry,22,Female,Diabetes,Metformin,5mg,Dizziness,Partially Recovered,1/26/2026,Dr. Kapoor
+1479,Divij Dutt,70,Male,Fever,Paracetamol,25mg,Dizziness,Fully Recovered,11/25/2024,Dr. Mehta
+1480,Vaibhav Wagle,63,Female,Asthma,Salbutamol,5mg,Nausea,Fully Recovered,11/28/2025,Dr. Verma
+1481,Nishith Singh,39,Male,Asthma,Budesonide,100mg,Tremors,Fully Recovered,4/21/2025,Dr. Verma
+1482,Vivaan Saran,63,Male,Asthma,Salbutamol,25mg,Rash,Fully Recovered,5/25/2025,Dr. Mehta
+1483,Sara Bhatnagar,20,Male,Depression,Sertraline,25mg,Sleepiness,Partially Recovered,6/9/2024,Dr. Singh
+1484,Reyansh Sachdev,66,Female,Infection,Azithromycin,250mg,Acidity,Fully Recovered,4/25/2026,Dr. Joshi
+1485,Sumer Singh,62,Female,Fever,Ibuprofen,250mg,Dizziness,Partially Recovered,12/8/2024,Dr. Sharma
+1486,Vedika Koshy,27,Female,Fever,Paracetamol,10mg,Headache,Partially Recovered,5/24/2026,Dr. Iyer
+1487,Tanya Mander,55,Female,Anxiety,Sertraline,250mg,Tremors,Partially Recovered,11/19/2024,Dr. Mehta
+1488,Sumer Chana,20,Male,Migraine,Sumatriptan,400mg,Sleepiness,Partially Recovered,11/12/2024,Dr. Verma
+1489,Samar Karpe,68,Male,Diabetes,Insulin,400mg,Sleepiness,Fully Recovered,7/14/2024,Dr. Joshi
+1490,Zeeshan Sem,49,Female,Infection,Azithromycin,850mg,Partially Recoveredne,Fully Recovered,6/11/2025,Dr. Singh
+1491,Baiju Koshy,73,Male,Cold,Paracetamol,5mg,Partially Recoveredne,Fully Recovered,11/12/2025,Dr. Verma
+1492,Shayak Boase,22,Female,Diabetes,Metformin,500mg,Sleepiness,Partially Recovered,1/31/2025,Dr. Sharma
+1493,Vaibhav Kaul,48,Male,Fever,Ibuprofen,5mg,Rash,Fully Recovered,12/6/2025,Dr. Singh
+1494,Shray Hegde,40,Female,Depression,Fluoxetine,850mg,Partially Recoveredne,Partially Recovered,10/9/2025,Dr. Singh
+1495,Purab Hari,55,Male,Allergy,Loratadine,5mg,Headache,Partially Recovered,6/24/2024,Dr. Arora
+1496,Rohan Swamy,66,Female,Blood Pressure,Amlodipine,10mg,Fatigue,Fully Recovered,1/18/2026,Dr. Kapoor
+1497,Shayak Halder,24,Female,Cold,Paracetamol,5mg,Dry Mouth,Partially Recovered,11/18/2024,Dr. Sharma
+1498,Divit Sunder,53,Male,Depression,Fluoxetine,850mg,Vomiting,Fully Recovered,12/19/2024,Dr. Verma
+1499,Miraan Mallick,28,Female,Depression,Sertraline,5mg,Vomiting,Fully Recovered,6/10/2025,Dr. Arora
+1500,Heer Dewan,66,Male,Asthma,Salbutamol,100mg,Sleepiness,Partially Recovered,1/18/2026,Dr. Verma
+1501,Ivan Grewal,38,Female,Cold,Paracetamol,100mg,Headache,Partially Recovered,2/25/2026,Dr. Iyer
+1502,Saanvi Khosla,59,Female,Migraine,Sumatriptan,850mg,Vomiting,Partially Recovered,9/20/2025,Dr. Sharma
+1503,Rati Dara,50,Male,Asthma,Salbutamol,25mg,Partially Recoveredne,Partially Recovered,4/5/2025,Dr. Sharma
+1504,Renee Mane,73,Male,Asthma,Budesonide,10mg,Nausea,Partially Recovered,11/18/2025,Dr. Mehta
+1505,Keya Kata,56,Male,Allergy,Cetirizine,25mg,Rash,Fully Recovered,9/18/2024,Dr. Iyer
+1506,Shaan Manda,40,Male,Blood Pressure,Amlodipine,400mg,Sleepiness,Fully Recovered,5/7/2026,Dr. Mehta
+1507,Manjari Buch,33,Female,Migraine,Naproxen,5mg,Partially Recoveredne,Partially Recovered,8/17/2024,Dr. Singh
+1508,Zain Sha,61,Male,Diabetes,Insulin,250mg,Dry Mouth,Partially Recovered,1/25/2026,Dr. Sharma
+1509,Ishaan Bath,39,Male,Diabetes,Insulin,500mg,Dry Mouth,Fully Recovered,3/1/2026,Dr. Joshi
+1510,Zeeshan Dugal,44,Female,Allergy,Cetirizine,10mg,Vomiting,Partially Recovered,6/22/2025,Dr. Singh
+1511,Divyansh Dhingra,32,Male,Blood Pressure,Losartan,25mg,Nausea,Fully Recovered,11/23/2024,Dr. Arora
+1512,Indranil Kala,30,Male,Fever,Ibuprofen,5mg,Headache,Fully Recovered,12/3/2024,Dr. Joshi
+1513,Aarna Chandra,71,Male,Blood Pressure,Losartan,10mg,Rash,Partially Recovered,8/7/2024,Dr. Kapoor
+1514,Hrishita Venkataraman,46,Female,Blood Pressure,Losartan,250mg,Sleepiness,Partially Recovered,1/10/2026,Dr. Iyer
+1515,Lakshit Comar,33,Female,Anxiety,Sertraline,50mg,Headache,Partially Recovered,5/2/2025,Dr. Singh
+1516,Reyansh Chhabra,29,Male,Allergy,Cetirizine,5mg,Fatigue,Fully Recovered,11/22/2025,Dr. Iyer
+1517,Reyansh Deol,39,Female,Migraine,Naproxen,50mg,Partially Recoveredne,Partially Recovered,11/16/2025,Dr. Arora
+1518,Vedika Vora,70,Female,Anxiety,Sertraline,250mg,Stomach Pain,Partially Recovered,5/13/2026,Dr. Arora
+1519,Indrans Borah,29,Female,Cold,Ibuprofen,500mg,Dry Mouth,Fully Recovered,7/28/2024,Dr. Mehta
+1520,Yashvi Bahri,50,Female,Allergy,Cetirizine,100mg,Rash,Partially Recovered,3/17/2026,Dr. Kapoor
+1521,Siya Kala,29,Male,Depression,Sertraline,25mg,Stomach Pain,Fully Recovered,1/3/2025,Dr. Verma
+1522,Kaira Khurana,49,Female,Fever,Ibuprofen,650mg,Sleepiness,Partially Recovered,1/4/2025,Dr. Verma
+1523,Trisha Amble,43,Male,Depression,Fluoxetine,650mg,Headache,Fully Recovered,8/1/2025,Dr. Sharma
+1524,Emir Kant,36,Female,Depression,Fluoxetine,50mg,Headache,Fully Recovered,1/17/2025,Dr. Joshi
+1525,Heer Kaul,61,Male,Blood Pressure,Amlodipine,850mg,Fatigue,Fully Recovered,12/14/2025,Dr. Joshi
+1526,Aarna Rastogi,31,Female,Depression,Sertraline,400mg,Rash,Fully Recovered,3/2/2026,Dr. Singh
+1527,Farhan Vasa,38,Male,Migraine,Naproxen,400mg,Acidity,Partially Recovered,4/9/2025,Dr. Iyer
+1528,Shayak Chahal,34,Female,Allergy,Cetirizine,400mg,Nausea,Fully Recovered,11/17/2025,Dr. Kapoor
+1529,Kavya Chakraborty,38,Male,Blood Pressure,Losartan,100mg,Partially Recoveredne,Fully Recovered,2/14/2026,Dr. Arora
+1530,Anay Desai,59,Male,Diabetes,Metformin,50mg,Dry Mouth,Fully Recovered,2/17/2026,Dr. Verma
+1531,Bhamini Sharaf,35,Male,Allergy,Cetirizine,500mg,Partially Recoveredne,Fully Recovered,7/19/2024,Dr. Mehta
+1532,Kanav Mangat,68,Male,Migraine,Sumatriptan,10mg,Tremors,Fully Recovered,9/19/2025,Dr. Kapoor
+1533,Rati Gupta,35,Female,Anxiety,Sertraline,10mg,Partially Recoveredne,Partially Recovered,10/16/2024,Dr. Mehta
+1534,Tarini Sarraf,26,Female,Depression,Sertraline,5mg,Partially Recoveredne,Partially Recovered,2/21/2025,Dr. Arora
+1535,Madhav Kanda,74,Female,Diabetes,Insulin,500mg,Fatigue,Fully Recovered,4/11/2025,Dr. Verma
+1536,Himmat Lad,32,Female,Blood Pressure,Amlodipine,100mg,Fatigue,Partially Recovered,11/16/2024,Dr. Mehta
+1537,Amira Singh,66,Male,Anxiety,Escitalopram,650mg,Stomach Pain,Partially Recovered,2/28/2026,Dr. Iyer
+1538,Suhana Brahmbhatt,26,Female,Infection,Doxycycline,25mg,Dry Mouth,Partially Recovered,12/14/2025,Dr. Sharma
+1539,Rohan Krishnan,21,Female,Infection,Doxycycline,400mg,Dry Mouth,Fully Recovered,9/4/2025,Dr. Verma
+1540,Mohanlal Boase,34,Male,Anxiety,Sertraline,25mg,Sleepiness,Fully Recovered,1/19/2025,Dr. Singh
+1541,Misha Tata,18,Male,Diabetes,Metformin,5mg,Partially Recoveredne,Fully Recovered,2/26/2025,Dr. Kapoor
+1542,Emir Swamy,31,Female,Fever,Paracetamol,50mg,Nausea,Fully Recovered,12/26/2024,Dr. Sharma
+1543,Farhan Chatterjee,56,Female,Asthma,Budesonide,10mg,Headache,Partially Recovered,10/22/2024,Dr. Mehta
+1544,Baiju Mander,40,Male,Diabetes,Metformin,500mg,Headache,Fully Recovered,6/16/2025,Dr. Mehta
+1545,Hridaan Dhar,24,Male,Asthma,Budesonide,500mg,Acidity,Partially Recovered,6/12/2024,Dr. Singh
+1546,Baiju Gera,61,Female,Asthma,Budesonide,850mg,Fatigue,Partially Recovered,9/5/2025,Dr. Mehta
+1547,Nitara Kant,22,Male,Depression,Sertraline,650mg,Headache,Partially Recovered,12/15/2025,Dr. Kapoor
+1548,Aaina Issac,60,Female,Depression,Sertraline,5mg,Tremors,Partially Recovered,2/17/2026,Dr. Mehta
+1549,Pari Dash,72,Female,Cold,Paracetamol,10mg,Tremors,Fully Recovered,4/9/2025,Dr. Singh
+1550,Charvi Soni,25,Female,Anxiety,Sertraline,50mg,Rash,Partially Recovered,7/1/2025,Dr. Singh
+1551,Ishaan Sunder,58,Female,Infection,Azithromycin,25mg,Vomiting,Partially Recovered,5/13/2026,Dr. Verma
+1552,Indrajit Buch,61,Male,Depression,Sertraline,500mg,Rash,Fully Recovered,12/10/2025,Dr. Mehta
+1553,Lakshit Majumdar,71,Male,Depression,Sertraline,25mg,Fatigue,Partially Recovered,11/26/2024,Dr. Mehta
+1554,Raghav Sarma,47,Female,Depression,Fluoxetine,10mg,Tremors,Partially Recovered,6/2/2025,Dr. Singh
+1555,Parinaaz Chokshi,46,Male,Anxiety,Sertraline,50mg,Vomiting,Fully Recovered,1/22/2026,Dr. Singh
+1556,Ahana  Raval,54,Female,Anxiety,Sertraline,10mg,Vomiting,Fully Recovered,10/31/2024,Dr. Kapoor
+1557,Samaira Kaul,33,Female,Fever,Paracetamol,250mg,Nausea,Partially Recovered,2/13/2026,Dr. Kapoor
+1558,Kanav Dewan,48,Female,Migraine,Naproxen,50mg,Fatigue,Partially Recovered,4/22/2025,Dr. Singh
+1559,Sumer Tiwari,44,Male,Fever,Paracetamol,25mg,Headache,Partially Recovered,5/16/2026,Dr. Joshi
+1560,Taran Sangha,46,Female,Fever,Ibuprofen,250mg,Tremors,Fully Recovered,1/12/2026,Dr. Sharma
+1561,Amani Dave,35,Male,Allergy,Loratadine,400mg,Tremors,Fully Recovered,7/19/2024,Dr. Joshi
+1562,Dhanush Mangal,57,Male,Asthma,Budesonide,10mg,Dry Mouth,Partially Recovered,1/30/2026,Dr. Mehta
+1563,Rasha Chatterjee,58,Female,Diabetes,Metformin,10mg,Nausea,Partially Recovered,12/26/2024,Dr. Verma
+1564,Jiya Wadhwa,30,Male,Depression,Sertraline,5mg,Partially Recoveredne,Fully Recovered,8/25/2024,Dr. Joshi
+1565,Saksham Vala,61,Female,Asthma,Salbutamol,400mg,Fatigue,Partially Recovered,9/15/2025,Dr. Arora
+1566,Anay Chopra,53,Male,Fever,Ibuprofen,850mg,Partially Recoveredne,Fully Recovered,10/28/2025,Dr. Singh
+1567,Suhana Kalita,48,Female,Asthma,Budesonide,10mg,Partially Recoveredne,Fully Recovered,1/1/2025,Dr. Joshi
+1568,Diya Khatri,66,Male,Fever,Paracetamol,250mg,Sleepiness,Fully Recovered,8/17/2024,Dr. Mehta
+1569,Mannat Gupta,23,Female,Blood Pressure,Amlodipine,850mg,Acidity,Fully Recovered,7/7/2025,Dr. Singh
+1570,Emir Date,18,Male,Depression,Sertraline,250mg,Nausea,Fully Recovered,10/7/2025,Dr. Arora
+1571,Renee Seshadri,25,Male,Allergy,Loratadine,10mg,Dry Mouth,Fully Recovered,5/3/2025,Dr. Sharma
+1572,Dhanush Taneja,51,Female,Diabetes,Insulin,50mg,Fatigue,Fully Recovered,6/16/2025,Dr. Kapoor
+1573,Seher Chhabra,34,Female,Depression,Sertraline,650mg,Acidity,Partially Recovered,9/2/2024,Dr. Kapoor
+1574,JaFully Recoveredh Ram,40,Female,Cold,Paracetamol,850mg,Sleepiness,Partially Recovered,4/19/2025,Dr. Iyer
+1575,Miraya Ramachandran,66,Male,Blood Pressure,Losartan,50mg,Nausea,Fully Recovered,5/14/2025,Dr. Verma
+1576,Jhanvi Contractor,74,Female,Blood Pressure,Amlodipine,10mg,Fatigue,Fully Recovered,6/1/2025,Dr. Iyer
+1577,Veer Bhat,54,Female,Migraine,Naproxen,500mg,Stomach Pain,Fully Recovered,1/2/2026,Dr. Iyer
+1578,Manikya Kumer,23,Female,Migraine,Naproxen,400mg,Dizziness,Fully Recovered,5/2/2025,Dr. Mehta
+1579,Vritika Mall,20,Male,Infection,Azithromycin,25mg,Stomach Pain,Fully Recovered,9/25/2025,Dr. Joshi
+1580,Rati Raju,58,Female,Fever,Paracetamol,50mg,Headache,Partially Recovered,5/30/2025,Dr. Mehta
+1581,Kabir Balan,54,Male,Cold,Ibuprofen,650mg,Tremors,Fully Recovered,12/22/2024,Dr. Sharma
+1582,Rania Keer,27,Male,Infection,Doxycycline,250mg,Acidity,Fully Recovered,5/5/2026,Dr. Arora
+1583,Faiyaz Edwin,69,Male,Asthma,Salbutamol,400mg,Sleepiness,Fully Recovered,7/15/2025,Dr. Sharma
+1584,Lakshay Kapadia,70,Female,Allergy,Cetirizine,100mg,Partially Recoveredne,Partially Recovered,2/11/2026,Dr. Singh
+1585,Dhanuk Uppal,48,Male,Allergy,Cetirizine,5mg,Partially Recoveredne,Partially Recovered,3/26/2025,Dr. Singh
+1586,Dishani Gole,56,Female,Fever,Ibuprofen,100mg,Headache,Partially Recovered,12/13/2025,Dr. Iyer
+1587,Rania Halder,28,Male,Asthma,Salbutamol,500mg,Vomiting,Partially Recovered,7/13/2024,Dr. Mehta
+1588,Zaina Rastogi,47,Female,Infection,Doxycycline,100mg,Rash,Fully Recovered,3/1/2025,Dr. Arora
+1589,Arhaan Sarma,21,Female,Fever,Ibuprofen,650mg,Sleepiness,Fully Recovered,11/4/2024,Dr. Singh
+1590,Advika Chandran,45,Male,Anxiety,Sertraline,650mg,Tremors,Fully Recovered,2/17/2025,Dr. Singh
+1591,Aaryahi Batra,41,Male,Infection,Doxycycline,50mg,Dry Mouth,Partially Recovered,12/11/2024,Dr. Mehta
+1592,Mishti Chatterjee,34,Male,Anxiety,Escitalopram,25mg,Rash,Partially Recovered,11/18/2024,Dr. Mehta
+1593,Jayan Solanki,41,Male,Depression,Sertraline,50mg,Acidity,Partially Recovered,7/27/2025,Dr. Arora
+1594,Diya Shanker,19,Female,Infection,Azithromycin,50mg,Stomach Pain,Partially Recovered,7/26/2024,Dr. Singh
+1595,Kanav Chada,38,Female,Depression,Fluoxetine,50mg,Partially Recoveredne,Partially Recovered,5/10/2025,Dr. Singh
+1596,Tanya Acharya,43,Male,Depression,Sertraline,250mg,Dizziness,Partially Recovered,3/3/2025,Dr. Sharma
+1597,Divyansh Deshpande,49,Male,Depression,Sertraline,50mg,Dizziness,Partially Recovered,8/23/2024,Dr. Joshi
+1598,Tarini Sachdeva,31,Female,Cold,Paracetamol,25mg,Acidity,Fully Recovered,2/21/2025,Dr. Kapoor
+1599,Umang Mann,20,Female,Diabetes,Metformin,850mg,Sleepiness,Partially Recovered,7/4/2024,Dr. Mehta
+1600,Shalv Deol,57,Female,Diabetes,Insulin,850mg,Stomach Pain,Fully Recovered,7/15/2024,Dr. Verma
+1601,Shamik Majumdar,48,Female,Diabetes,Metformin,50mg,Tremors,Partially Recovered,10/29/2024,Dr. Mehta
+1602,Zoya Dube,29,Male,Cold,Ibuprofen,50mg,Dry Mouth,Fully Recovered,4/16/2025,Dr. Sharma
+1603,Romil Bose,47,Female,Asthma,Salbutamol,250mg,Fatigue,Fully Recovered,8/22/2024,Dr. Joshi
+1604,Samaira Sabharwal,31,Male,Blood Pressure,Amlodipine,50mg,Dizziness,Partially Recovered,7/18/2025,Dr. Mehta
+1605,Priyansh Dutta,46,Female,Asthma,Salbutamol,25mg,Headache,Partially Recovered,12/22/2025,Dr. Verma
+1606,Jivin Kala,32,Male,Blood Pressure,Amlodipine,25mg,Dry Mouth,Fully Recovered,7/16/2024,Dr. Verma
+1607,Stuvan Sur,57,Female,Depression,Sertraline,50mg,Fatigue,Fully Recovered,12/5/2024,Dr. Sharma
+1608,Mahika Sekhon,73,Male,Diabetes,Metformin,100mg,Partially Recoveredne,Fully Recovered,6/16/2025,Dr. Kapoor
+1609,Samar Karpe,61,Female,Fever,Paracetamol,5mg,Fatigue,Fully Recovered,11/7/2025,Dr. Arora
+1610,Mahika Banik,75,Female,Allergy,Loratadine,850mg,Partially Recoveredne,Fully Recovered,2/11/2025,Dr. Joshi
+1611,Faiyaz Ray,39,Male,Anxiety,Escitalopram,5mg,Sleepiness,Fully Recovered,10/14/2024,Dr. Sharma
+1612,Nehmat Maharaj,64,Male,Allergy,Loratadine,50mg,Headache,Fully Recovered,10/15/2025,Dr. Iyer
+1613,Jiya Deep,32,Female,Migraine,Sumatriptan,250mg,Fatigue,Partially Recovered,6/6/2025,Dr. Mehta
+1614,Faiyaz Bhakta,70,Male,Anxiety,Sertraline,650mg,Dry Mouth,Fully Recovered,8/17/2025,Dr. Sharma
+1615,Divyansh Handa,70,Male,Migraine,Naproxen,25mg,Sleepiness,Partially Recovered,1/16/2025,Dr. Sharma
+1616,Oorja Hora,51,Female,Anxiety,Sertraline,250mg,Vomiting,Partially Recovered,2/21/2025,Dr. Arora
+1617,Jayan Kamdar,62,Female,Anxiety,Sertraline,10mg,Dizziness,Partially Recovered,1/16/2026,Dr. Sharma
+1618,Saira Balay,58,Male,Blood Pressure,Losartan,25mg,Tremors,Partially Recovered,1/2/2025,Dr. Arora
+1619,Ivana Loke,20,Female,Diabetes,Insulin,25mg,Rash,Fully Recovered,2/19/2025,Dr. Verma
+1620,Abram Kakar,51,Male,Anxiety,Sertraline,50mg,Tremors,Partially Recovered,2/26/2026,Dr. Joshi
+1621,Alia Ranganathan,39,Female,Allergy,Cetirizine,250mg,Vomiting,Fully Recovered,12/8/2025,Dr. Singh
+1622,Aarav Kar,46,Male,Asthma,Budesonide,250mg,Nausea,Fully Recovered,9/22/2024,Dr. Verma
+1623,Fateh Iyengar,27,Male,Blood Pressure,Amlodipine,850mg,Tremors,Fully Recovered,12/24/2024,Dr. Joshi
+1624,Kabir Devan,37,Female,Blood Pressure,Losartan,650mg,Stomach Pain,Fully Recovered,12/28/2024,Dr. Kapoor
+1625,Heer Bhargava,23,Male,Diabetes,Insulin,850mg,Fatigue,Partially Recovered,3/20/2025,Dr. Mehta
+1626,Rania Yogi,73,Male,Infection,Azithromycin,500mg,Nausea,Partially Recovered,9/25/2025,Dr. Singh
+1627,Navya Dayal,32,Male,Cold,Paracetamol,650mg,Dizziness,Fully Recovered,1/17/2026,Dr. Joshi
+1628,Hazel Badami,32,Male,Blood Pressure,Amlodipine,10mg,Headache,Partially Recovered,7/6/2024,Dr. Joshi
+1629,Tiya Subramaniam,55,Male,Depression,Sertraline,850mg,Acidity,Fully Recovered,11/14/2025,Dr. Mehta
+1630,Emir Gopal,74,Female,Migraine,Sumatriptan,50mg,Acidity,Fully Recovered,6/24/2024,Dr. Verma
+1631,Prisha Viswanathan,57,Female,Diabetes,Metformin,500mg,Vomiting,Partially Recovered,9/11/2025,Dr. Iyer
+1632,Anaya Bakshi,46,Male,Anxiety,Sertraline,10mg,Tremors,Partially Recovered,10/5/2024,Dr. Singh
+1633,Indranil Bhatia,46,Female,Allergy,Cetirizine,400mg,Partially Recoveredne,Fully Recovered,3/12/2026,Dr. Kapoor
+1634,Shalv Manne,52,Male,Infection,Azithromycin,5mg,Headache,Fully Recovered,12/3/2024,Dr. Joshi
+1635,Saira Lata,70,Male,Infection,Doxycycline,25mg,Stomach Pain,Partially Recovered,5/8/2026,Dr. Singh
+1636,Gatik Mane,57,Male,Asthma,Budesonide,850mg,Vomiting,Partially Recovered,8/8/2025,Dr. Arora
+1637,Rohan Dua,21,Female,Migraine,Sumatriptan,250mg,Partially Recoveredne,Partially Recovered,8/16/2025,Dr. Verma
+1638,Vritika Sama,68,Female,Allergy,Loratadine,250mg,Dizziness,Partially Recovered,3/17/2026,Dr. Joshi
+1639,Misha Vala,74,Male,Migraine,Naproxen,250mg,Dizziness,Partially Recovered,11/23/2024,Dr. Iyer
+1640,Madhup Bath,74,Male,Migraine,Sumatriptan,500mg,Tremors,Fully Recovered,6/20/2025,Dr. Verma
+1641,Tanya Dara,23,Female,Cold,Paracetamol,10mg,Stomach Pain,Fully Recovered,4/17/2026,Dr. Arora
+1642,Heer Kumer,43,Female,Infection,Doxycycline,400mg,Dry Mouth,Fully Recovered,8/13/2024,Dr. Iyer
+1643,Kaira Dhawan,19,Female,Allergy,Cetirizine,50mg,Stomach Pain,Fully Recovered,4/21/2026,Dr. Mehta
+1644,Shlok Sengupta,39,Female,Cold,Ibuprofen,10mg,Partially Recoveredne,Fully Recovered,2/7/2025,Dr. Joshi
+1645,Aarna Walla,48,Female,Migraine,Naproxen,100mg,Dizziness,Fully Recovered,1/13/2025,Dr. Arora
+1646,Rhea Dave,45,Female,Depression,Sertraline,100mg,Headache,Partially Recovered,4/24/2026,Dr. Mehta
+1647,Jiya Suresh,20,Male,Fever,Paracetamol,5mg,Tremors,Partially Recovered,12/24/2025,Dr. Arora
+1648,Shanaya Chawla,22,Male,Allergy,Loratadine,100mg,Sleepiness,Fully Recovered,10/8/2024,Dr. Mehta
+1649,AFully Recoveredha Kar,65,Male,Cold,Paracetamol,10mg,Partially Recoveredne,Fully Recovered,5/17/2025,Dr. Joshi
+1650,Oorja Mandal,49,Female,Infection,Doxycycline,5mg,Stomach Pain,Partially Recovered,11/24/2025,Dr. Singh
+1651,Manikya Thakur,61,Female,Anxiety,Escitalopram,10mg,Nausea,Fully Recovered,3/6/2026,Dr. Kapoor
+1652,Abram Dora,65,Male,Infection,Azithromycin,5mg,Nausea,Fully Recovered,5/5/2025,Dr. Kapoor
+1653,Aniruddh Mani,45,Female,Asthma,Salbutamol,5mg,Acidity,Fully Recovered,7/18/2025,Dr. Arora
+1654,Shanaya Goyal,60,Male,Fever,Paracetamol,400mg,Partially Recoveredne,Fully Recovered,4/15/2026,Dr. Arora
+1655,Vritika Devi,27,Female,Depression,Fluoxetine,250mg,Headache,Partially Recovered,11/21/2025,Dr. Kapoor
+1656,Tiya Dutt,18,Female,Anxiety,Escitalopram,500mg,Partially Recoveredne,Fully Recovered,3/8/2026,Dr. Verma
+1657,Urvi Bhasin,21,Female,Infection,Azithromycin,25mg,Fatigue,Fully Recovered,1/4/2026,Dr. Singh
+1658,Aayush Ravel,21,Female,Migraine,Sumatriptan,50mg,Stomach Pain,Fully Recovered,8/8/2024,Dr. Mehta
+1659,Oorja Deshmukh,48,Male,Infection,Azithromycin,500mg,Fatigue,Partially Recovered,8/16/2024,Dr. Arora
+1660,Pari Manne,34,Male,Diabetes,Metformin,250mg,Rash,Partially Recovered,10/6/2024,Dr. Mehta
+1661,Saanvi Keer,60,Female,Migraine,Sumatriptan,25mg,Headache,Partially Recovered,12/24/2025,Dr. Sharma
+1662,Kartik Dora,19,Male,Migraine,Naproxen,400mg,Vomiting,Fully Recovered,5/1/2026,Dr. Kapoor
+1663,Anvi Shukla,32,Female,Allergy,Cetirizine,100mg,Vomiting,Partially Recovered,6/10/2024,Dr. Arora
+1664,Nakul Rajan,44,Male,Anxiety,Sertraline,400mg,Tremors,Fully Recovered,4/7/2026,Dr. Sharma
+1665,Shanaya Bakshi,68,Female,Anxiety,Sertraline,50mg,Nausea,Fully Recovered,3/1/2026,Dr. Joshi
+1666,Ivan Dugar,35,Male,Anxiety,Escitalopram,250mg,Tremors,Partially Recovered,7/2/2024,Dr. Kapoor
+1667,Raghav Shere,47,Female,Allergy,Cetirizine,50mg,Tremors,Fully Recovered,8/31/2025,Dr. Arora
+1668,Mohanlal Bali,68,Female,Diabetes,Metformin,50mg,Vomiting,Fully Recovered,9/1/2024,Dr. Joshi
+1669,Rohan Seshadri,34,Female,Asthma,Budesonide,650mg,Dry Mouth,Fully Recovered,9/23/2025,Dr. Mehta
+1670,Vanya Bobal,62,Female,Blood Pressure,Losartan,100mg,Acidity,Fully Recovered,11/30/2024,Dr. Arora
+1671,Dishani Ganesan,30,Male,Diabetes,Metformin,400mg,Acidity,Fully Recovered,7/3/2024,Dr. Singh
+1672,Nitara Behl,19,Male,Migraine,Naproxen,650mg,Sleepiness,Partially Recovered,6/4/2025,Dr. Iyer
+1673,Rhea Lal,73,Female,Allergy,Cetirizine,10mg,Rash,Partially Recovered,7/30/2024,Dr. Sharma
+1674,Mehul Sharma,59,Male,Migraine,Naproxen,100mg,Tremors,Partially Recovered,11/16/2025,Dr. Joshi
+1675,Aradhya Chowdhury,18,Female,Fever,Ibuprofen,850mg,Acidity,Partially Recovered,2/14/2026,Dr. Joshi
+1676,AFully Recoveredha Bumb,48,Male,Depression,Sertraline,400mg,Dry Mouth,Fully Recovered,11/19/2024,Dr. Mehta
+1677,Oorja Jain,41,Female,Infection,Azithromycin,650mg,Rash,Partially Recovered,11/16/2025,Dr. Sharma
+1678,Rania Agate,48,Male,Asthma,Budesonide,10mg,Rash,Fully Recovered,5/22/2026,Dr. Singh
+1679,Ehsaan Dasgupta,42,Female,Blood Pressure,Losartan,850mg,Vomiting,Partially Recovered,5/17/2026,Dr. Arora
+1680,Anahi Jhaveri,53,Male,Infection,Azithromycin,400mg,Acidity,Partially Recovered,3/21/2026,Dr. Sharma
+1681,Yuvraj  Saran,43,Female,Allergy,Loratadine,100mg,Sleepiness,Fully Recovered,4/9/2026,Dr. Iyer
+1682,Azad Suri,21,Male,Diabetes,Metformin,400mg,Headache,Partially Recovered,5/27/2024,Dr. Mehta
+1683,Ahana  Bains,25,Male,Allergy,Loratadine,650mg,Vomiting,Fully Recovered,7/12/2024,Dr. Sharma
+1684,Saanvi Bora,33,Female,Allergy,Cetirizine,25mg,Nausea,Partially Recovered,8/1/2025,Dr. Iyer
+1685,Kaira Krishnamurthy,58,Female,Diabetes,Metformin,25mg,Vomiting,Partially Recovered,12/20/2024,Dr. Singh
+1686,Vardaniya Gala,65,Female,Infection,Azithromycin,50mg,Acidity,Fully Recovered,10/28/2025,Dr. Sharma
+1687,Krish Ramesh,29,Male,Blood Pressure,Losartan,50mg,Dizziness,Fully Recovered,12/27/2025,Dr. Joshi
+1688,Kavya Sharma,40,Female,Cold,Ibuprofen,650mg,Sleepiness,Partially Recovered,10/18/2024,Dr. Mehta
+1689,Rohan Doctor,58,Female,Depression,Fluoxetine,400mg,Partially Recoveredne,Fully Recovered,8/2/2024,Dr. Sharma
+1690,Kiaan Gill,53,Male,Fever,Ibuprofen,50mg,Stomach Pain,Partially Recovered,8/13/2024,Dr. Arora
+1691,Diya Kibe,47,Female,Anxiety,Escitalopram,500mg,Headache,Fully Recovered,6/2/2025,Dr. Kapoor
+1692,Lavanya Shah,69,Male,Cold,Paracetamol,250mg,Sleepiness,Partially Recovered,12/8/2024,Dr. Joshi
+1693,Seher Anne,35,Female,Allergy,Loratadine,650mg,Nausea,Partially Recovered,10/30/2025,Dr. Arora
+1694,Elakshi Bhagat,55,Female,Diabetes,Insulin,650mg,Partially Recoveredne,Fully Recovered,5/6/2026,Dr. Arora
+1695,Chirag Sampath,44,Female,Asthma,Budesonide,400mg,Headache,Fully Recovered,3/16/2025,Dr. Iyer
+1696,Zain Atwal,72,Female,Allergy,Cetirizine,400mg,Headache,Fully Recovered,5/11/2025,Dr. Mehta
+1697,Tejas Ramakrishnan,72,Male,Cold,Ibuprofen,25mg,Dry Mouth,Partially Recovered,11/3/2024,Dr. Verma
+1698,Drishya Tailor,65,Male,Migraine,Sumatriptan,10mg,Fatigue,Partially Recovered,4/21/2026,Dr. Mehta
+1699,Kartik Vala,26,Female,Allergy,Cetirizine,10mg,Tremors,Partially Recovered,7/8/2024,Dr. Iyer
+1700,Shray Issac,65,Female,Blood Pressure,Losartan,850mg,Vomiting,Fully Recovered,2/10/2025,Dr. Joshi
+1701,JaFully Recoveredh Kapadia,36,Female,Diabetes,Metformin,5mg,Vomiting,Fully Recovered,5/22/2026,Dr. Sharma
+1702,Divyansh Sha,74,Male,Depression,Fluoxetine,650mg,Stomach Pain,Partially Recovered,10/22/2025,Dr. Sharma
+1703,Samaira Dave,65,Female,Blood Pressure,Amlodipine,50mg,Rash,Fully Recovered,8/21/2024,Dr. Arora
+1704,Ishaan Gole,70,Male,Allergy,Loratadine,25mg,Partially Recoveredne,Partially Recovered,8/12/2025,Dr. Iyer
+1705,Prerak Solanki,74,Female,Anxiety,Escitalopram,850mg,Nausea,Partially Recovered,11/20/2024,Dr. Arora
+1706,Divit D’Alia,68,Female,Anxiety,Escitalopram,400mg,Stomach Pain,Fully Recovered,9/17/2025,Dr. Singh
+1707,Madhav Dugar,24,Male,Diabetes,Metformin,500mg,Partially Recoveredne,Fully Recovered,6/29/2025,Dr. Joshi
+1708,Mahika Reddy,25,Female,Cold,Ibuprofen,100mg,Dizziness,Partially Recovered,8/18/2025,Dr. Kapoor
+1709,Madhup Chand,47,Male,Migraine,Sumatriptan,400mg,Acidity,Fully Recovered,9/6/2024,Dr. Iyer
+1710,Tara Chander,36,Male,Cold,Paracetamol,25mg,Acidity,Fully Recovered,3/24/2026,Dr. Arora
+1711,Tarini Ahuja,33,Female,Infection,Azithromycin,10mg,Dry Mouth,Fully Recovered,8/2/2024,Dr. Joshi
+1712,Hiran Kulkarni,43,Male,Blood Pressure,Losartan,50mg,Partially Recoveredne,Fully Recovered,10/9/2025,Dr. Kapoor
+1713,Suhana Singhal,39,Female,Infection,Doxycycline,400mg,Partially Recoveredne,Fully Recovered,8/28/2025,Dr. Joshi
+1714,Mannat Dayal,59,Male,Infection,Azithromycin,10mg,Nausea,Partially Recovered,1/11/2026,Dr. Sharma
+1715,Anya Banerjee,75,Male,Migraine,Sumatriptan,850mg,Fatigue,Partially Recovered,7/7/2024,Dr. Mehta
+1716,Azad Kari,68,Female,Infection,Doxycycline,10mg,Vomiting,Partially Recovered,4/30/2026,Dr. Verma
+1717,Uthkarsh Deep,38,Male,Depression,Sertraline,250mg,Acidity,Partially Recovered,7/13/2025,Dr. Mehta
+1718,Mehul Madan,63,Male,Diabetes,Insulin,400mg,Partially Recoveredne,Fully Recovered,5/31/2024,Dr. Sharma
+1719,Romil Kannan,63,Female,Anxiety,Escitalopram,100mg,Dry Mouth,Partially Recovered,11/23/2025,Dr. Verma
+1720,Damini Keer,75,Male,Allergy,Loratadine,100mg,Fatigue,Fully Recovered,10/30/2024,Dr. Arora
+1721,Kashvi Ghosh,49,Female,Diabetes,Insulin,850mg,Acidity,Partially Recovered,6/1/2025,Dr. Iyer
+1722,Dhanush Thakur,39,Male,Cold,Ibuprofen,5mg,Sleepiness,Partially Recovered,7/17/2025,Dr. Sharma
+1723,Prerak Konda,45,Male,Asthma,Budesonide,25mg,Rash,Partially Recovered,6/13/2024,Dr. Sharma
+1724,Hunar Babu,32,Female,Fever,Paracetamol,100mg,Nausea,Fully Recovered,1/21/2026,Dr. Kapoor
+1725,Dhanuk Lala,36,Male,Blood Pressure,Losartan,850mg,Nausea,Partially Recovered,9/13/2024,Dr. Kapoor
+1726,Shray Dutta,61,Male,Depression,Sertraline,10mg,Sleepiness,Partially Recovered,11/26/2025,Dr. Kapoor
+1727,Inaaya  Dani,31,Male,Blood Pressure,Amlodipine,25mg,Stomach Pain,Fully Recovered,8/2/2025,Dr. Iyer
+1728,Seher Singh,19,Female,Asthma,Budesonide,250mg,Vomiting,Partially Recovered,10/26/2024,Dr. Mehta
+1729,Hrishita Suri,64,Female,Infection,Doxycycline,400mg,Sleepiness,Fully Recovered,7/8/2025,Dr. Mehta
+1730,Farhan Agrawal,21,Male,Diabetes,Metformin,500mg,Nausea,Partially Recovered,1/9/2026,Dr. Verma
+1731,Ishaan Thakkar,71,Male,Depression,Fluoxetine,850mg,Dizziness,Fully Recovered,2/12/2026,Dr. Sharma
+1732,Shamik Dada,21,Male,Asthma,Budesonide,25mg,Dizziness,Fully Recovered,7/24/2024,Dr. Singh
+1733,Ivana Buch,19,Male,Migraine,Sumatriptan,5mg,Acidity,Fully Recovered,4/6/2025,Dr. Sharma
+1734,Ela Chakrabarti,72,Male,Allergy,Cetirizine,500mg,Rash,Partially Recovered,2/20/2025,Dr. Kapoor
+1735,Yuvaan Bhakta,51,Male,Fever,Ibuprofen,25mg,Vomiting,Partially Recovered,2/4/2026,Dr. Joshi
+1736,Aaryahi Mani,27,Male,Anxiety,Escitalopram,10mg,Fatigue,Fully Recovered,12/23/2025,Dr. Sharma
+1737,Ira Keer,53,Female,Asthma,Budesonide,650mg,Dry Mouth,Fully Recovered,2/24/2025,Dr. Mehta
+1738,Myra Bedi,68,Female,Cold,Ibuprofen,5mg,Nausea,Partially Recovered,9/9/2025,Dr. Verma
+1739,Myra Bir,34,Male,Fever,Paracetamol,650mg,Vomiting,Fully Recovered,2/23/2025,Dr. Joshi
+1740,Stuvan Bhargava,21,Male,Infection,Doxycycline,500mg,Tremors,Partially Recovered,3/23/2026,Dr. Singh
+1741,Zoya Kata,74,Male,Anxiety,Sertraline,10mg,Nausea,Fully Recovered,7/19/2024,Dr. Verma
+1742,Taimur Sethi,64,Male,Depression,Sertraline,25mg,Vomiting,Partially Recovered,2/21/2026,Dr. Mehta
+1743,Jivika Gade,23,Female,Depression,Sertraline,5mg,Vomiting,Partially Recovered,4/29/2025,Dr. Verma
+1744,Madhav Banik,62,Male,Depression,Fluoxetine,100mg,Dizziness,Partially Recovered,10/16/2024,Dr. Verma
+1745,Samaira Dhingra,20,Female,Blood Pressure,Amlodipine,10mg,Vomiting,Partially Recovered,1/14/2026,Dr. Kapoor
+1746,Piya Hans,27,Male,Cold,Paracetamol,50mg,Tremors,Fully Recovered,3/11/2025,Dr. Verma
+1747,Nirvaan Comar,47,Male,Migraine,Sumatriptan,250mg,Dry Mouth,Fully Recovered,1/14/2025,Dr. Joshi
+1748,Hansh Kohli,61,Female,Anxiety,Sertraline,50mg,Vomiting,Partially Recovered,12/12/2024,Dr. Arora
+1749,Ishita Doshi,71,Male,Migraine,Sumatriptan,850mg,Nausea,Fully Recovered,12/30/2024,Dr. Singh
+1750,Tanya Toor,20,Male,Asthma,Salbutamol,500mg,Vomiting,Partially Recovered,6/8/2024,Dr. Arora
+1751,Shanaya Manne,58,Male,Migraine,Sumatriptan,50mg,Acidity,Partially Recovered,3/8/2025,Dr. Joshi
+1752,Lagan Sule,42,Female,Diabetes,Insulin,850mg,Sleepiness,Fully Recovered,8/2/2024,Dr. Verma
+1753,Devansh Sen,20,Male,Migraine,Naproxen,50mg,Stomach Pain,Fully Recovered,7/9/2024,Dr. Sharma
+1754,Raunak Sane,47,Male,Infection,Doxycycline,25mg,Nausea,Partially Recovered,10/14/2025,Dr. Joshi
+1755,Vardaniya Loyal,48,Female,Anxiety,Sertraline,25mg,Tremors,Partially Recovered,5/17/2026,Dr. Joshi
+1756,Nirvi Dara,37,Female,Diabetes,Metformin,250mg,Nausea,Partially Recovered,2/4/2026,Dr. Sharma
+1757,Sana Anne,23,Male,Asthma,Salbutamol,100mg,Dizziness,Partially Recovered,1/11/2025,Dr. Verma
+1758,Manikya Sangha,56,Female,Asthma,Salbutamol,10mg,Fatigue,Fully Recovered,12/6/2025,Dr. Arora
+1759,Aradhya Gour,70,Male,Infection,Doxycycline,25mg,Headache,Partially Recovered,12/15/2024,Dr. Arora
+1760,Myra Dara,71,Male,Asthma,Salbutamol,400mg,Headache,Fully Recovered,10/19/2024,Dr. Singh
+1761,Zara Sarin,68,Female,Depression,Fluoxetine,850mg,Acidity,Partially Recovered,6/3/2024,Dr. Verma
+1762,Inaaya  Deshmukh,61,Female,Blood Pressure,Amlodipine,50mg,Fatigue,Partially Recovered,9/24/2024,Dr. Sharma
+1763,Tiya Ram,22,Male,Depression,Sertraline,250mg,Sleepiness,Partially Recovered,12/30/2025,Dr. Sharma
+1764,Aniruddh Bora,73,Female,Migraine,Sumatriptan,50mg,Stomach Pain,Fully Recovered,6/3/2025,Dr. Arora
+1765,Jivin Vyas,31,Male,Blood Pressure,Losartan,650mg,Tremors,Fully Recovered,2/7/2026,Dr. Sharma
+1766,Lagan Agarwal,67,Male,Asthma,Budesonide,25mg,Partially Recoveredne,Partially Recovered,8/11/2025,Dr. Mehta
+1767,Jayant Randhawa,42,Male,Depression,Sertraline,50mg,Rash,Partially Recovered,8/24/2025,Dr. Kapoor
+1768,Neysa De,55,Male,Infection,Doxycycline,5mg,Acidity,Fully Recovered,6/7/2025,Dr. Iyer
+1769,Gokul Vig,57,Female,Diabetes,Metformin,100mg,Headache,Partially Recovered,12/24/2024,Dr. Verma
+1770,Manikya Ganesan,70,Female,Migraine,Naproxen,10mg,Fatigue,Partially Recovered,5/31/2024,Dr. Sharma
+1771,Saanvi Cherian,66,Female,Depression,Fluoxetine,250mg,Sleepiness,Fully Recovered,10/7/2024,Dr. Verma
+1772,Yasmin Chaudhary,36,Male,Migraine,Naproxen,100mg,Acidity,Partially Recovered,10/27/2025,Dr. Joshi
+1773,Keya Jha,75,Male,Infection,Doxycycline,650mg,Fatigue,Partially Recovered,12/3/2025,Dr. Mehta
+1774,Kavya Dass,24,Male,Migraine,Sumatriptan,850mg,Vomiting,Fully Recovered,1/15/2025,Dr. Mehta
+1775,Yakshit Hans,69,Female,Asthma,Salbutamol,10mg,Rash,Partially Recovered,12/20/2025,Dr. Iyer
+1776,Elakshi Thaker,62,Female,Allergy,Loratadine,400mg,Sleepiness,Fully Recovered,11/23/2025,Dr. Sharma
+1777,Divit Dass,25,Male,Blood Pressure,Amlodipine,650mg,Tremors,Fully Recovered,2/20/2025,Dr. Singh
+1778,Jivika Gour,53,Male,Blood Pressure,Amlodipine,500mg,Tremors,Partially Recovered,10/16/2025,Dr. Kapoor
+1779,Ranbir Gole,48,Female,Infection,Doxycycline,850mg,Acidity,Fully Recovered,7/25/2025,Dr. Sharma
+1780,Misha Master,57,Female,Migraine,Sumatriptan,50mg,Rash,Fully Recovered,8/23/2025,Dr. Verma
+1781,Kashvi Chadha,55,Female,Depression,Fluoxetine,500mg,Sleepiness,Fully Recovered,12/17/2025,Dr. Iyer
+1782,Trisha Wable,67,Male,Asthma,Budesonide,400mg,Sleepiness,Fully Recovered,10/4/2025,Dr. Iyer
+1783,Mehul Sankar,49,Male,Allergy,Cetirizine,500mg,Rash,Fully Recovered,12/25/2024,Dr. Singh
+1784,Aniruddh Shukla,44,Male,Diabetes,Insulin,850mg,Dizziness,Partially Recovered,1/5/2026,Dr. Mehta
+1785,Aarna Thakur,61,Male,Allergy,Loratadine,100mg,Dry Mouth,Partially Recovered,11/18/2025,Dr. Joshi
+1786,Jivika Garg,46,Male,Infection,Azithromycin,500mg,Tremors,Fully Recovered,6/17/2024,Dr. Iyer
+1787,Bhavin Sarma,63,Female,Allergy,Cetirizine,10mg,Rash,Partially Recovered,2/19/2025,Dr. Sharma
+1788,Riaan Gole,46,Female,Cold,Paracetamol,5mg,Dizziness,Partially Recovered,7/21/2024,Dr. Mehta
+1789,Prerak Kakar,44,Female,Depression,Fluoxetine,400mg,Nausea,Partially Recovered,5/17/2025,Dr. Arora
+1790,Jayan Magar,19,Female,Asthma,Salbutamol,5mg,Vomiting,Partially Recovered,8/23/2025,Dr. Arora
+1791,Darshit Tiwari,72,Male,Depression,Sertraline,400mg,Nausea,Fully Recovered,7/29/2025,Dr. Singh
+1792,Manikya Char,57,Female,Fever,Paracetamol,100mg,Fatigue,Fully Recovered,1/6/2026,Dr. Joshi
+1793,Gatik Edwin,38,Male,Fever,Ibuprofen,400mg,Dizziness,Fully Recovered,10/1/2025,Dr. Arora
+1794,Ojas Ahluwalia,30,Female,Depression,Sertraline,5mg,Fatigue,Partially Recovered,12/31/2024,Dr. Mehta
+1795,Uthkarsh Atwal,46,Male,Fever,Paracetamol,25mg,Vomiting,Fully Recovered,3/26/2026,Dr. Kapoor
+1796,Vivaan Devi,24,Male,Asthma,Salbutamol,400mg,Partially Recoveredne,Partially Recovered,3/14/2026,Dr. Singh
+1797,Samarth Bobal,27,Female,Cold,Ibuprofen,850mg,Fatigue,Fully Recovered,7/16/2024,Dr. Sharma
+1798,JaFully Recoveredh Brahmbhatt,57,Female,Depression,Fluoxetine,100mg,Sleepiness,Fully Recovered,4/20/2026,Dr. Verma
+1799,Elakshi Sen,18,Female,Depression,Fluoxetine,10mg,Dizziness,Partially Recovered,11/29/2024,Dr. Iyer
+1800,JaFully Recoveredh Boase,26,Male,Anxiety,Escitalopram,400mg,Stomach Pain,Fully Recovered,11/10/2024,Dr. Sharma
+1801,Ehsaan Sampath,34,Female,Asthma,Salbutamol,100mg,Dry Mouth,Partially Recovered,2/12/2025,Dr. Kapoor
+1802,Madhav Varma,58,Male,Cold,Paracetamol,650mg,Sleepiness,Fully Recovered,5/8/2026,Dr. Mehta
+1803,Shamik Bhardwaj,36,Female,Allergy,Cetirizine,650mg,Fatigue,Fully Recovered,8/20/2025,Dr. Kapoor
+1804,Krish Hayre,67,Male,Allergy,Cetirizine,850mg,Headache,Fully Recovered,1/23/2025,Dr. Joshi
+1805,Riya Buch,61,Female,Infection,Doxycycline,50mg,Headache,Fully Recovered,1/15/2025,Dr. Iyer
+1806,Samaira Anand,52,Male,Migraine,Naproxen,650mg,Sleepiness,Partially Recovered,10/11/2025,Dr. Sharma
+1807,Eshani Konda,21,Male,Anxiety,Sertraline,650mg,Fatigue,Fully Recovered,7/1/2025,Dr. Arora
+1808,Emir Bal,53,Male,Allergy,Cetirizine,850mg,Acidity,Partially Recovered,5/1/2025,Dr. Arora
+1809,Romil Sunder,19,Male,Cold,Paracetamol,250mg,Dizziness,Partially Recovered,11/14/2025,Dr. Joshi
+1810,Mishti Shanker,67,Female,Depression,Fluoxetine,50mg,Rash,Partially Recovered,8/7/2024,Dr. Verma
+1811,Veer Kibe,61,Female,Allergy,Cetirizine,650mg,Sleepiness,Partially Recovered,3/6/2025,Dr. Iyer
+1812,Shamik Shanker,58,Female,Migraine,Naproxen,400mg,Partially Recoveredne,Partially Recovered,2/14/2026,Dr. Joshi
+1813,Samaira Dugar,23,Male,Anxiety,Sertraline,250mg,Sleepiness,Fully Recovered,11/25/2024,Dr. Sharma
+1814,Vihaan Apte,44,Male,Blood Pressure,Amlodipine,500mg,Headache,Fully Recovered,2/16/2025,Dr. Iyer
+1815,Indrajit Zachariah,54,Male,Cold,Ibuprofen,25mg,Partially Recoveredne,Fully Recovered,1/16/2025,Dr. Sharma
+1816,Onkar Sathe,45,Female,Migraine,Sumatriptan,50mg,Dry Mouth,Partially Recovered,7/14/2024,Dr. Singh
+1817,Veer Ganguly,21,Female,Diabetes,Insulin,850mg,Headache,Fully Recovered,12/6/2025,Dr. Verma
+1818,Yuvraj  Som,64,Male,Diabetes,Insulin,400mg,Vomiting,Partially Recovered,11/26/2025,Dr. Sharma
+1819,Rania Bandi,25,Female,Fever,Ibuprofen,400mg,Dry Mouth,Fully Recovered,6/16/2025,Dr. Kapoor
+1820,Purab Bhardwaj,56,Female,Asthma,Salbutamol,500mg,Sleepiness,Partially Recovered,9/8/2024,Dr. Arora
+1821,Bhavin Walla,75,Female,Migraine,Naproxen,850mg,Rash,Fully Recovered,1/24/2025,Dr. Sharma
+1822,Saanvi Badami,23,Female,Diabetes,Metformin,650mg,Stomach Pain,Partially Recovered,4/6/2025,Dr. Verma
+1823,Prerak Shere,56,Female,Depression,Sertraline,50mg,Fatigue,Fully Recovered,3/4/2025,Dr. Iyer
+1824,Pranay Krish,59,Female,Allergy,Loratadine,25mg,Partially Recoveredne,Fully Recovered,10/26/2025,Dr. Verma
+1825,Jivin Rau,23,Female,Blood Pressure,Amlodipine,650mg,Fatigue,Partially Recovered,9/14/2025,Dr. Sharma
+1826,Miraan Raja,74,Male,Asthma,Budesonide,5mg,Nausea,Partially Recovered,7/23/2025,Dr. Sharma
+1827,Farhan Gill,18,Female,Anxiety,Escitalopram,850mg,Headache,Fully Recovered,8/10/2024,Dr. Verma
+1828,Jivika Kibe,56,Male,Depression,Sertraline,5mg,Sleepiness,Partially Recovered,11/15/2024,Dr. Iyer
+1829,Siya Wason,72,Female,Cold,Ibuprofen,500mg,Nausea,Partially Recovered,12/23/2025,Dr. Iyer
+1830,Tejas Arora,27,Male,Blood Pressure,Amlodipine,100mg,Fatigue,Partially Recovered,3/29/2025,Dr. Arora
+1831,Aaryahi Bali,34,Female,Allergy,Loratadine,400mg,Partially Recoveredne,Fully Recovered,3/1/2025,Dr. Sharma
+1832,Tiya Borde,70,Female,Fever,Ibuprofen,50mg,Tremors,Fully Recovered,8/12/2025,Dr. Mehta
+1833,Kanav Bath,30,Male,Migraine,Sumatriptan,500mg,Fatigue,Fully Recovered,12/26/2025,Dr. Arora
+1834,Jhanvi Agrawal,31,Female,Cold,Ibuprofen,100mg,Stomach Pain,Partially Recovered,5/22/2026,Dr. Iyer
+1835,Saksham Dugar,64,Female,Anxiety,Sertraline,50mg,Tremors,Partially Recovered,10/16/2024,Dr. Joshi
+1836,Vidur Date,48,Male,Diabetes,Metformin,400mg,Acidity,Fully Recovered,7/20/2025,Dr. Sharma
+1837,Faiyaz Dugar,62,Female,Migraine,Sumatriptan,850mg,Fatigue,Partially Recovered,9/10/2025,Dr. Iyer
+1838,Indrajit Gokhale,46,Male,Asthma,Budesonide,500mg,Headache,Partially Recovered,3/8/2026,Dr. Arora
+1839,Tarini Sandhu,74,Female,Depression,Fluoxetine,650mg,Headache,Fully Recovered,6/30/2024,Dr. Joshi
+1840,Anahita Gill,44,Male,Fever,Paracetamol,25mg,Headache,Fully Recovered,8/1/2024,Dr. Iyer
+1841,Tarini Chakrabarti,22,Male,Fever,Paracetamol,50mg,Dizziness,Fully Recovered,3/12/2025,Dr. Singh
+1842,Darshit Mangat,29,Male,Migraine,Sumatriptan,500mg,Dry Mouth,Fully Recovered,9/1/2024,Dr. Arora
+1843,Yuvaan Reddy,57,Male,Fever,Paracetamol,400mg,Tremors,Partially Recovered,3/19/2026,Dr. Arora
+1844,Indrans Seshadri,26,Male,Fever,Paracetamol,500mg,Nausea,Fully Recovered,7/21/2025,Dr. Verma
+1845,Saira Bala,72,Female,Anxiety,Escitalopram,10mg,Stomach Pain,Fully Recovered,12/4/2025,Dr. Kapoor
+1846,Renee Warrior,18,Male,Allergy,Loratadine,100mg,Vomiting,Partially Recovered,1/27/2026,Dr. Verma
+1847,Riaan Bajwa,22,Female,Anxiety,Sertraline,25mg,Acidity,Partially Recovered,3/10/2026,Dr. Mehta
+1848,Nitya Date,62,Male,Cold,Paracetamol,5mg,Rash,Fully Recovered,9/18/2025,Dr. Joshi
+1849,Anika Kade,41,Male,Diabetes,Metformin,10mg,Acidity,Partially Recovered,11/9/2024,Dr. Singh
+1850,Vihaan Kamdar,35,Female,Diabetes,Metformin,50mg,Tremors,Fully Recovered,10/31/2024,Dr. Iyer
+1851,Ranbir Tandon,47,Male,Fever,Paracetamol,250mg,Dizziness,Partially Recovered,9/12/2025,Dr. Kapoor
+1852,Kiara Balan,57,Female,Blood Pressure,Losartan,100mg,Tremors,Fully Recovered,10/20/2025,Dr. Iyer
+1853,Tara Dhillon,74,Male,Fever,Ibuprofen,50mg,Sleepiness,Partially Recovered,6/14/2024,Dr. Arora
+1854,Lakshay Balay,30,Female,Diabetes,Insulin,50mg,Dry Mouth,Fully Recovered,11/19/2025,Dr. Kapoor
+1855,Seher Bhatnagar,51,Female,Diabetes,Insulin,400mg,Stomach Pain,Partially Recovered,8/14/2025,Dr. Mehta
+1856,Dhruv Mandal,30,Female,Migraine,Sumatriptan,850mg,Tremors,Fully Recovered,12/25/2025,Dr. Sharma
+1857,Amani Kar,65,Male,Fever,Ibuprofen,100mg,Stomach Pain,Partially Recovered,5/26/2026,Dr. Arora
+1858,Lagan Vig,30,Female,Asthma,Salbutamol,400mg,Acidity,Fully Recovered,9/3/2024,Dr. Singh
+1859,Badal Gill,40,Male,Blood Pressure,Losartan,500mg,Dry Mouth,Partially Recovered,3/11/2026,Dr. Singh
+1860,Tiya Biswas,22,Male,Blood Pressure,Losartan,100mg,Dizziness,Fully Recovered,4/8/2026,Dr. Singh
+1861,Oorja Luthra,55,Female,Asthma,Budesonide,400mg,Vomiting,Fully Recovered,3/23/2026,Dr. Arora
+1862,Divit Grover,25,Female,Cold,Ibuprofen,10mg,Nausea,Fully Recovered,7/21/2025,Dr. Arora
+1863,Nirvi Edwin,37,Male,Cold,Ibuprofen,50mg,Vomiting,Partially Recovered,6/29/2025,Dr. Iyer
+1864,Eva Gola,61,Female,Cold,Ibuprofen,650mg,Headache,Fully Recovered,4/28/2026,Dr. Verma
+1865,Miraya Kar,23,Female,Anxiety,Sertraline,50mg,Sleepiness,Partially Recovered,9/6/2025,Dr. Singh
+1866,Tiya Chatterjee,25,Male,Asthma,Budesonide,50mg,Dizziness,Fully Recovered,4/15/2026,Dr. Arora
+1867,Dishani Ramachandran,63,Male,Depression,Fluoxetine,50mg,Vomiting,Fully Recovered,7/8/2025,Dr. Joshi
+1868,Elakshi Balasubramanian,37,Male,Infection,Azithromycin,50mg,Sleepiness,Fully Recovered,5/17/2025,Dr. Verma
+1869,Hansh Issac,63,Male,Diabetes,Metformin,100mg,Tremors,Partially Recovered,7/9/2024,Dr. Arora
+1870,Nayantara Sridhar,69,Male,Fever,Paracetamol,250mg,Dizziness,Partially Recovered,1/28/2025,Dr. Joshi
+1871,Tejas Gera,54,Male,Infection,Doxycycline,25mg,Vomiting,Partially Recovered,6/4/2024,Dr. Singh
+1872,Kiara Balasubramanian,51,Female,Cold,Paracetamol,5mg,Vomiting,Fully Recovered,11/14/2024,Dr. Verma
+1873,Aaina Setty,62,Male,Fever,Ibuprofen,400mg,Sleepiness,Partially Recovered,10/18/2024,Dr. Arora
+1874,Sahil Korpal,67,Female,Migraine,Naproxen,400mg,Nausea,Fully Recovered,12/21/2024,Dr. Iyer
+1875,Ryan Kulkarni,29,Female,Allergy,Loratadine,50mg,Nausea,Fully Recovered,1/26/2026,Dr. Mehta
+1876,Anvi Kamdar,23,Female,Migraine,Sumatriptan,850mg,Nausea,Fully Recovered,8/12/2024,Dr. Joshi
+1877,Kaira De,25,Male,Asthma,Salbutamol,25mg,Headache,Partially Recovered,9/18/2024,Dr. Sharma
+1878,Divij Manne,39,Male,Cold,Paracetamol,400mg,Vomiting,Partially Recovered,1/30/2025,Dr. Sharma
+1879,Gokul Sankaran,65,Female,Depression,Fluoxetine,650mg,Sleepiness,Fully Recovered,3/27/2025,Dr. Iyer
+1880,Indrajit Golla,21,Male,Cold,Paracetamol,50mg,Headache,Partially Recovered,10/7/2025,Dr. Iyer
+1881,Shayak Mall,26,Male,Migraine,Naproxen,650mg,Fatigue,Fully Recovered,12/25/2025,Dr. Sharma
+1882,Ela Hans,25,Male,Infection,Doxycycline,250mg,Dry Mouth,Partially Recovered,3/26/2025,Dr. Mehta
+1883,Keya Goyal,56,Male,Allergy,Cetirizine,850mg,Headache,Fully Recovered,8/22/2025,Dr. Singh
+1884,Shlok Magar,37,Male,Depression,Fluoxetine,850mg,Acidity,Fully Recovered,2/1/2026,Dr. Verma
+1885,JaFully Recoveredh Choudhury,41,Male,Fever,Ibuprofen,5mg,Headache,Fully Recovered,6/22/2024,Dr. Mehta
+1886,Gatik Sachar,62,Male,Diabetes,Insulin,400mg,Headache,Fully Recovered,1/3/2025,Dr. Sharma
+1887,Madhup Rajan,25,Female,Cold,Paracetamol,500mg,Nausea,Partially Recovered,12/17/2024,Dr. Arora
+1888,Ivana Bera,61,Female,Anxiety,Sertraline,100mg,Sleepiness,Fully Recovered,9/24/2024,Dr. Iyer
+1889,Umang Buch,52,Male,Migraine,Naproxen,50mg,Dizziness,Partially Recovered,4/27/2026,Dr. Kapoor
+1890,Charvi Luthra,44,Male,Asthma,Salbutamol,25mg,Dry Mouth,Partially Recovered,11/15/2024,Dr. Iyer
+1891,Vanya Koshy,34,Female,Allergy,Loratadine,250mg,Nausea,Partially Recovered,12/18/2025,Dr. Mehta
+1892,Krish Basak,46,Female,Asthma,Salbutamol,50mg,Dizziness,Fully Recovered,2/4/2025,Dr. Verma
+1893,Parinaaz Ramachandran,31,Female,Anxiety,Sertraline,100mg,Stomach Pain,Fully Recovered,4/10/2025,Dr. Verma
+1894,Darshit Acharya,31,Male,Blood Pressure,Amlodipine,500mg,Sleepiness,Partially Recovered,6/22/2024,Dr. Mehta
+1895,Vritika Ranganathan,23,Male,Migraine,Sumatriptan,10mg,Dizziness,Partially Recovered,8/25/2025,Dr. Singh
+1896,Anika Sarma,31,Male,Diabetes,Metformin,100mg,Headache,Fully Recovered,10/2/2025,Dr. Mehta
+1897,Kimaya Wason,28,Male,Depression,Sertraline,250mg,Nausea,Partially Recovered,3/4/2026,Dr. Verma
+1898,Chirag Madan,37,Female,Fever,Paracetamol,650mg,Nausea,Partially Recovered,10/30/2024,Dr. Sharma
+1899,Krish Arora,34,Female,Diabetes,Insulin,850mg,Fatigue,Fully Recovered,12/8/2024,Dr. Iyer
+1900,Vivaan Mani,18,Male,Fever,Paracetamol,500mg,Acidity,Partially Recovered,8/25/2025,Dr. Mehta
+1901,Anika Bhavsar,39,Female,Diabetes,Metformin,5mg,Stomach Pain,Partially Recovered,10/21/2024,Dr. Iyer
+1902,Keya Tak,68,Male,Blood Pressure,Losartan,400mg,Acidity,Partially Recovered,1/6/2026,Dr. Kapoor
+1903,Zain Sawhney,43,Male,Fever,Ibuprofen,50mg,Partially Recoveredne,Fully Recovered,3/22/2026,Dr. Mehta
+1904,Zaina Grewal,68,Female,Infection,Azithromycin,50mg,Sleepiness,Fully Recovered,9/18/2025,Dr. Iyer
+1905,Lakshay Raval,37,Female,Allergy,Cetirizine,10mg,Rash,Partially Recovered,2/18/2026,Dr. Verma
+1906,Hiran Sunder,29,Male,Cold,Paracetamol,25mg,Headache,Fully Recovered,12/18/2024,Dr. Iyer
+1907,Samaira Dalal,62,Female,Fever,Ibuprofen,10mg,Stomach Pain,Partially Recovered,1/10/2026,Dr. Arora
+1908,Raghav Acharya,19,Male,Fever,Ibuprofen,500mg,Headache,Fully Recovered,4/26/2025,Dr. Joshi
+1909,Hridaan Sethi,27,Female,Allergy,Loratadine,50mg,Rash,Fully Recovered,1/17/2026,Dr. Singh
+1910,Dishani Shanker,70,Male,Fever,Paracetamol,400mg,Dizziness,Partially Recovered,2/26/2025,Dr. Sharma
+1911,Ivan Mallick,45,Female,Cold,Ibuprofen,100mg,Acidity,Fully Recovered,6/17/2025,Dr. Joshi
+1912,Badal Sehgal,52,Female,Diabetes,Metformin,500mg,Headache,Partially Recovered,3/25/2026,Dr. Singh
+1913,Seher De,66,Male,Blood Pressure,Losartan,850mg,Acidity,Partially Recovered,7/25/2025,Dr. Verma
+1914,Bhavin Sule,54,Male,Allergy,Cetirizine,50mg,Stomach Pain,Partially Recovered,6/4/2025,Dr. Singh
+1915,Sumer Dalal,29,Male,Asthma,Salbutamol,400mg,Vomiting,Partially Recovered,1/1/2025,Dr. Singh
+1916,Ranbir Sekhon,58,Male,Infection,Doxycycline,100mg,Partially Recoveredne,Partially Recovered,10/9/2025,Dr. Joshi
+1917,Tarini Raj,27,Female,Infection,Azithromycin,10mg,Acidity,Fully Recovered,7/16/2025,Dr. Arora
+1918,Adah Kala,62,Male,Migraine,Sumatriptan,100mg,Stomach Pain,Partially Recovered,12/6/2025,Dr. Joshi
+1919,Samarth Sundaram,66,Male,Allergy,Loratadine,5mg,Nausea,Partially Recovered,2/9/2025,Dr. Kapoor
+1920,Myra Subramanian,40,Male,Diabetes,Metformin,400mg,Partially Recoveredne,Fully Recovered,4/21/2026,Dr. Joshi
+1921,Jivin Chander,43,Male,Fever,Ibuprofen,650mg,Sleepiness,Fully Recovered,8/10/2025,Dr. Sharma
+1922,Himmat Brar,43,Male,Allergy,Cetirizine,5mg,Stomach Pain,Partially Recovered,3/14/2025,Dr. Sharma
+1923,Drishya Vala,68,Female,Blood Pressure,Amlodipine,500mg,Acidity,Partially Recovered,3/25/2025,Dr. Kapoor
+1924,Nakul Chaudhary,29,Male,Depression,Sertraline,50mg,Partially Recoveredne,Fully Recovered,2/16/2025,Dr. Iyer
+1925,Jivika Bala,55,Male,Blood Pressure,Losartan,100mg,Headache,Partially Recovered,1/30/2025,Dr. Mehta
+1926,Vihaan Raval,57,Male,Blood Pressure,Amlodipine,5mg,Dizziness,Partially Recovered,6/16/2025,Dr. Iyer
+1927,Dhruv Borra,36,Female,Fever,Ibuprofen,5mg,Dizziness,Partially Recovered,9/9/2024,Dr. Verma
+1928,Madhup Dhawan,41,Male,Asthma,Budesonide,10mg,Fatigue,Fully Recovered,10/16/2024,Dr. Iyer
+1929,Hunar Taneja,19,Female,Fever,Paracetamol,25mg,Sleepiness,Partially Recovered,7/6/2025,Dr. Singh
+1930,Sumer Mandal,23,Female,Depression,Fluoxetine,500mg,Stomach Pain,Fully Recovered,9/20/2024,Dr. Mehta
+1931,Hazel Toor,51,Male,Blood Pressure,Amlodipine,500mg,Dizziness,Fully Recovered,12/2/2024,Dr. Arora
+1932,Divyansh Dhawan,60,Male,Migraine,Sumatriptan,50mg,Stomach Pain,Fully Recovered,6/10/2025,Dr. Kapoor
+1933,Shlok Baral,24,Male,Asthma,Salbutamol,850mg,Nausea,Fully Recovered,11/21/2025,Dr. Sharma
+1934,Kavya Chander,57,Male,Asthma,Budesonide,850mg,Sleepiness,Partially Recovered,5/17/2025,Dr. Verma
+1935,Reyansh Bhargava,45,Female,Migraine,Naproxen,25mg,Dizziness,Fully Recovered,3/18/2026,Dr. Iyer
+1936,Jivin Randhawa,54,Female,Depression,Fluoxetine,5mg,Acidity,Partially Recovered,1/26/2026,Dr. Joshi
+1937,Suhana Wadhwa,68,Female,Allergy,Cetirizine,100mg,Sleepiness,Fully Recovered,7/20/2025,Dr. Verma
+1938,Kiaan Luthra,37,Female,Cold,Paracetamol,25mg,Dizziness,Fully Recovered,7/7/2024,Dr. Sharma
+1939,Samar Tandon,44,Male,Diabetes,Insulin,25mg,Acidity,Fully Recovered,3/24/2025,Dr. Sharma
+1940,Yuvaan Shah,39,Male,Blood Pressure,Losartan,50mg,Tremors,Fully Recovered,4/6/2026,Dr. Verma
+1941,Manikya Karan,66,Male,Migraine,Naproxen,650mg,Stomach Pain,Fully Recovered,9/16/2024,Dr. Mehta
+1942,Vanya Din,29,Male,Migraine,Naproxen,25mg,Rash,Fully Recovered,6/28/2025,Dr. Kapoor
+1943,Azad Dhar,64,Female,Infection,Azithromycin,10mg,Stomach Pain,Fully Recovered,10/1/2025,Dr. Verma
+1944,Kabir Balasubramanian,63,Male,Asthma,Salbutamol,100mg,Partially Recoveredne,Fully Recovered,8/31/2024,Dr. Arora
+1945,Ranbir Ghose,65,Male,Depression,Fluoxetine,500mg,Sleepiness,Partially Recovered,8/22/2025,Dr. Joshi
+1946,Lakshay Lata,22,Female,Asthma,Salbutamol,250mg,Partially Recoveredne,Fully Recovered,3/29/2025,Dr. Kapoor
+1947,Inaaya  Lad,61,Female,Depression,Sertraline,25mg,Headache,Partially Recovered,11/21/2024,Dr. Iyer
+1948,Divyansh Goswami,32,Female,Depression,Sertraline,500mg,Fatigue,Partially Recovered,11/23/2024,Dr. Iyer
+1949,Madhup Agrawal,25,Male,Asthma,Salbutamol,500mg,Dry Mouth,Fully Recovered,2/19/2025,Dr. Mehta
+1950,Nayantara Varughese,41,Male,Blood Pressure,Amlodipine,50mg,Dry Mouth,Partially Recovered,8/14/2025,Dr. Mehta
+1951,Zaina Gole,51,Female,Fever,Paracetamol,400mg,Stomach Pain,Fully Recovered,2/20/2026,Dr. Sharma
+1952,Oorja Chatterjee,24,Male,Depression,Sertraline,400mg,Stomach Pain,Fully Recovered,12/22/2025,Dr. Sharma
+1953,Vaibhav Tella,48,Female,Fever,Paracetamol,250mg,Dizziness,Partially Recovered,3/27/2026,Dr. Sharma
+1954,Ishita Dutta,66,Female,Diabetes,Insulin,25mg,Rash,Fully Recovered,2/6/2026,Dr. Joshi
+1955,Kavya Iyengar,65,Male,Diabetes,Insulin,850mg,Fatigue,Fully Recovered,9/10/2024,Dr. Singh
+1956,Parinaaz Varty,38,Male,Cold,Paracetamol,250mg,Dry Mouth,Fully Recovered,1/20/2025,Dr. Iyer
+1957,Nishith Bhatt,68,Female,Depression,Sertraline,25mg,Sleepiness,Fully Recovered,7/12/2025,Dr. Singh
+1958,Keya Dass,71,Male,Diabetes,Metformin,650mg,Acidity,Partially Recovered,4/23/2026,Dr. Mehta
+1959,Uthkarsh Sawhney,40,Male,Fever,Ibuprofen,50mg,Partially Recoveredne,Partially Recovered,6/11/2024,Dr. Mehta
+1960,Jayant Zachariah,39,Female,Cold,Ibuprofen,5mg,Sleepiness,Fully Recovered,5/13/2025,Dr. Verma
+1961,Kiara Upadhyay,25,Male,Depression,Sertraline,250mg,Fatigue,Partially Recovered,10/21/2025,Dr. Arora
+1962,Lakshay Chatterjee,42,Male,Migraine,Sumatriptan,5mg,Headache,Fully Recovered,10/22/2024,Dr. Sharma
+1963,Prerak Gole,60,Female,Anxiety,Escitalopram,50mg,Acidity,Fully Recovered,10/6/2025,Dr. Verma
+1964,Nirvi Khare,51,Female,Asthma,Budesonide,25mg,Sleepiness,Fully Recovered,12/3/2025,Dr. Kapoor
+1965,Sumer Chandra,71,Female,Migraine,Sumatriptan,500mg,Headache,Partially Recovered,5/7/2025,Dr. Joshi
+1966,Saksham Roy,50,Male,Allergy,Cetirizine,650mg,Rash,Fully Recovered,11/1/2024,Dr. Singh
+1967,Jhanvi Wali,65,Female,Migraine,Naproxen,250mg,Partially Recoveredne,Fully Recovered,10/3/2024,Dr. Mehta
+1968,Ojas Gupta,60,Female,Asthma,Budesonide,650mg,Vomiting,Fully Recovered,2/25/2025,Dr. Iyer
+1969,Devansh Babu,43,Male,Depression,Fluoxetine,400mg,Nausea,Fully Recovered,8/19/2024,Dr. Verma
+1970,Jivika Banerjee,42,Male,Depression,Fluoxetine,25mg,Vomiting,Fully Recovered,9/28/2025,Dr. Verma
+1971,Drishya Sharaf,19,Male,Infection,Azithromycin,400mg,Nausea,Partially Recovered,1/8/2026,Dr. Joshi
+1972,Dhanush Kamdar,44,Male,Anxiety,Escitalopram,650mg,Fatigue,Partially Recovered,10/9/2025,Dr. Singh
+1973,Vihaan Baral,59,Male,Migraine,Sumatriptan,250mg,Tremors,Fully Recovered,9/29/2025,Dr. Joshi
+1974,Tarini Kumer,65,Male,Cold,Ibuprofen,50mg,Acidity,Partially Recovered,10/3/2025,Dr. Mehta
+1975,Akarsh Loke,33,Male,Fever,Ibuprofen,250mg,Tremors,Fully Recovered,8/2/2025,Dr. Verma
+1976,Gokul Deshpande,50,Male,Fever,Ibuprofen,25mg,Dizziness,Partially Recovered,1/18/2025,Dr. Joshi
+1977,Nehmat Thaker,33,Female,Migraine,Sumatriptan,25mg,Dizziness,Fully Recovered,7/28/2024,Dr. Arora
+1978,Samaira Agarwal,66,Male,Depression,Fluoxetine,250mg,Headache,Partially Recovered,6/23/2025,Dr. Arora
+1979,Kabir Borra,47,Male,Allergy,Cetirizine,50mg,Dry Mouth,Fully Recovered,12/14/2024,Dr. Arora
+1980,Anvi Bansal,53,Female,Blood Pressure,Losartan,5mg,Dizziness,Partially Recovered,5/30/2024,Dr. Sharma
+1981,Samar Bandi,41,Male,Diabetes,Insulin,850mg,Partially Recoveredne,Fully Recovered,5/29/2024,Dr. Iyer
+1982,Kiaan Seth,37,Female,Allergy,Cetirizine,250mg,Stomach Pain,Fully Recovered,12/14/2025,Dr. Sharma
+1983,JaFully Recoveredh Dasgupta,64,Male,Allergy,Loratadine,5mg,Sleepiness,Fully Recovered,8/14/2024,Dr. Sharma
+1984,Urvi Rau,25,Female,Asthma,Salbutamol,850mg,Acidity,Fully Recovered,4/9/2026,Dr. Verma
+1985,Badal Amble,32,Female,Anxiety,Sertraline,5mg,Dizziness,Fully Recovered,12/9/2024,Dr. Kapoor
+1986,Vidur Shroff,28,Female,Diabetes,Insulin,50mg,Vomiting,Partially Recovered,3/28/2025,Dr. Arora
+1987,Nakul Dey,37,Female,Infection,Azithromycin,50mg,Tremors,Partially Recovered,9/24/2024,Dr. Kapoor
+1988,Lagan Khurana,70,Male,Migraine,Naproxen,500mg,Tremors,Fully Recovered,5/1/2025,Dr. Mehta
+1989,Drishya Wable,49,Female,Allergy,Loratadine,650mg,Headache,Partially Recovered,1/11/2025,Dr. Arora
+1990,Saira Saran,74,Female,Blood Pressure,Losartan,5mg,Headache,Fully Recovered,8/28/2024,Dr. Joshi
+1991,Riya Loyal,46,Male,Infection,Doxycycline,250mg,Headache,Fully Recovered,7/20/2024,Dr. Arora
+1992,Sumer Bhatnagar,34,Male,Allergy,Cetirizine,500mg,Headache,Fully Recovered,2/3/2026,Dr. Singh
+1993,Zara Sampath,74,Female,Depression,Sertraline,250mg,Headache,Fully Recovered,3/31/2025,Dr. Mehta
+1994,Dishani Bhandari,74,Male,Asthma,Budesonide,50mg,Acidity,Fully Recovered,1/12/2026,Dr. Arora
+1995,Sara Dash,19,Female,Depression,Sertraline,25mg,Acidity,Partially Recovered,7/12/2025,Dr. Arora
+1996,Kartik Bawa,20,Female,Depression,Sertraline,10mg,Sleepiness,Partially Recovered,6/21/2025,Dr. Kapoor
+1997,Lakshit Bahl,32,Male,Blood Pressure,Losartan,400mg,Partially Recoveredne,Partially Recovered,3/1/2026,Dr. Kapoor
+1998,Damini Raval,49,Male,Cold,Ibuprofen,5mg,Dry Mouth,Partially Recovered,7/8/2025,Dr. Joshi
+1999,Jivin Sinha,41,Male,Blood Pressure,Losartan,50mg,Dry Mouth,Partially Recovered,7/12/2024,Dr. Iyer
+2000,Indranil Virk,29,Male,Blood Pressure,Losartan,500mg,Tremors,Fully Recovered,5/13/2025,Dr. Mehta

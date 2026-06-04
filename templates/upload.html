@@ -1,0 +1,139 @@
+<!-- upload.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Upload — ArogyaInsight</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="/">Arogya<span>Insight</span></a>
+  <div class="nav-links">
+    <a href="/dashboard">Dashboard</a>
+    <a href="/upload" class="active">Upload</a>
+    <a href="/login">Logout</a>
+  </div>
+</nav>
+
+<div class="container">
+
+  <p class="section-label">Data Ingestion</p>
+  <h1 class="section-title">Patient Record Add </h1>
+  <p class="section-sub">Manual form or CSV upload </p>
+
+  {% if error %}
+  <div class="alert alert-error">error{{ error }}</div>
+  {% endif %}
+  {% if success %}
+  <div class="alert alert-success">success {{ success }}</div>
+  {% endif %}
+
+  <div class="upload-sections">
+
+    <!-- Manual Form -->
+    <div class="upload-box">
+      <h2>Manual Entry</h2>
+      <form method="POST" action="/add-patient">
+        <div class="upload-grid">
+          <div class="form-group">
+            <label>Patient ID</label>
+            <input type="text" name="Patient_ID" required />
+          </div>
+          <div class="form-group">
+            <label>Full Name</label>
+            <input type="text" name="Name"  required />
+          </div>
+          <div class="form-group">
+            <label>Age</label>
+            <input type="number" name="Age" min="0" max="130" required />
+          </div>
+          <div class="form-group">
+            <label>Gender</label>
+            <select name="Gender" required>
+              <option value="" disabled selected>Select...</option>
+              <option>Male</option>
+              <option>Female</option>
+              <option>Other</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Disease</label>
+            <input type="text" name="Disease" required />
+          </div>
+          <div class="form-group">
+            <label>Medicine</label>
+            <input type="text" name="Medicine" required />
+          </div>
+          <div class="form-group">
+            <label>Dosage</label>
+            <input type="text" name="Dosage"  required />
+          </div>
+          <div class="form-group">
+            <label>Reaction</label>
+            <select name="Reaction" required>
+              <option value="" disabled selected>Select...</option>
+              <option>No</option>
+              <option>Mild</option>
+              <option>Yes</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Recovery</label>
+            <select name="Recovery" required>
+              <option value="" disabled selected>Select...</option>
+              <option>Fully Recovered</option>
+              <option>Partially Recovered</option>
+              <option>Under Treatment</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Visit Date</label>
+            <input type="date" name="Visit_Date" required />
+          </div>
+          <div class="form-group" style="grid-column: 1 / -1">
+            <label>Doctor</label>
+            <input type="text" name="Doctor"  required />
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary btn-full" style="margin-top:1rem">
+         Add and goto Dashboard
+        </button>
+      </form>
+    </div>
+
+    <!-- CSV Upload -->
+    <div class="upload-box">
+      <h2>CSV Upload</h2>
+      <p style="color:#666; font-size:0.85rem; margin-bottom:1.25rem;">
+        CSV must have these 11 columns:
+      </p>
+      <div style="background:#f9fafb; border:1px solid #e5e5e5; border-radius:8px; padding:0.9rem; margin-bottom:1.25rem;">
+        <p style="font-size:0.78rem; color:#888; line-height:1.8;">
+          Patient_ID, Name, Age, Gender, Disease,<br />
+          Medicine, Dosage, Reaction, Recovery, Visit_Date, Doctor
+        </p>
+      </div>
+      <form method="POST" action="/upload-csv" enctype="multipart/form-data">
+        <div class="form-group">
+          <label>Choose CSV File</label>
+          <input type="file" name="file" accept=".csv" required />
+        </div>
+        <button type="submit" class="btn btn-primary btn-full" style="margin-top:0.75rem">
+          Upload and go to Dashboard
+        </button>
+      </form>
+      <div class="divider"></div>
+      <p style="font-size:0.78rem; color:#aaa; margin-bottom:0.4rem;">Example row:</p>
+      <pre style="font-size:0.72rem; color:#999; background:#f9fafb; border:1px solid #e5e5e5; border-radius:6px; padding:0.75rem; overflow-x:auto; white-space:pre-wrap;">P020,Amit Shah,45,Male,Fever,Paracetamol,500mg,No,Fully Recovered,2024-06-01,Dr. Mehra</pre>
+    </div>
+
+  </div>
+</div>
+
+<footer>ArogyaInsight Analytics &nbsp;·&nbsp; FastAPI + Pandas for Data Analysis</footer>
+
+</body>
+</html>

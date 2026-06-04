@@ -1,0 +1,176 @@
+<!-- dashboard.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard — ArogyaInsight</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+  <script src="/static/js/dashboard.js"></script>
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="/">Arogya<span>Insight</span></a>
+  <div class="nav-links">
+    <a href="/dashboard" class="active">Dashboard</a>
+    <a href="/upload">Upload</a>
+    <a href="/login">Logout</a>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div style="display:flex; align-items:center; justify-content:space-between;
+              flex-wrap:wrap; gap:1rem; margin-bottom:1.75rem;">
+    <div>
+      <p class="section-label">Analytics Dashboard</p>
+      <h1 class="section-title" style="margin-bottom:0">Clinical Overview</h1>
+    </div>
+   
+  </div>
+
+  <!-- KPI Cards -->
+  <div class="kpi-grid">
+
+    <div class="kpi-card" style="--accent:#2563eb">
+      <p class="kpi-label">Total Patients</p>
+      <p class="kpi-value">{{ kpis.total_patients }}</p>
+    </div>
+
+    <div class="kpi-card" style="--accent:#16a34a">
+      <p class="kpi-label">Recovery Rate</p>
+      <p class="kpi-value">{{ kpis.recovery_rate }}%</p>
+      <p class="kpi-sub">Fully Recovered</p>
+    </div>
+
+    <div class="kpi-card" style="--accent:#dc2626">
+      <p class="kpi-label">Most Reactive Medicine</p>
+      <p class="kpi-value" style="font-size:1rem; letter-spacing:0">
+        {{ kpis.most_reactive_medicine }}
+      </p>
+    </div>
+
+    <div class="kpi-card" style="--accent:#d97706">
+      <p class="kpi-label">Avg Age</p>
+      <p class="kpi-value">{{ kpis.avg_age }}</p>
+      <p class="kpi-sub">Years</p>
+    </div>
+
+    <div class="kpi-card" style="--accent:#7c3aed">
+      <p class="kpi-label">Top Disease</p>
+      <p class="kpi-value" style="font-size:1rem; letter-spacing:0">
+        {{ kpis.top_disease }}
+      </p>
+      <p class="kpi-sub">Most common</p>
+    </div>
+
+    <div class="kpi-card" style="--accent:#7c3aed">
+      <p class="kpi-label">Top Medicine</p>
+      <p class="kpi-value" style="font-size:1rem; letter-spacing:0">
+        {{ kpis.top_medicine }}
+      </p>
+      <p class="kpi-sub">Most prescribed</p>
+    </div>
+
+  </div>
+
+  <!-- Segment 1: Patient Search -->
+  <div class="segment">
+    <div class="segment-header">
+      <span class="segment-badge">01</span>
+      <h2>Patient History Search</h2>
+    </div>
+    <p style="color:#666; font-size:0.875rem; margin-bottom:1rem;">
+      Enter Patient ID or Name
+    </p>
+    <div class="search-row">
+      <input type="text" id="patientQuery" class="search-input" />
+      <button class="btn btn-primary" onclick="searchPatient()">
+        Search <span id="patientSpinner" class="spinner"></span>
+      </button>
+    </div>
+    <div id="patientResults"></div>
+  </div>
+
+  <!-- Segment 2: Medicine Efficacy -->
+  <div class="segment">
+    <div class="segment-header">
+      <span class="segment-badge">02</span>
+      <h2>Medicine Efficacy</h2>
+    </div>
+    <p style="color:#666; font-size:0.875rem; margin-bottom:1rem;">
+     Enter Medicine Name
+    </p>
+    <div class="search-row">
+      <input type="text" id="medicineQuery" class="search-input" />
+      <button class="btn btn-primary" onclick="searchMedicine()">
+        Analyse <span id="medicineSpinner" class="spinner"></span>
+      </button>
+    </div>
+    <div id="medicineResults"></div>
+    <div id="medicineChart" class="chart-box" style="display:none">
+      <img src="/static/charts/medicine_chart.png?t={{ ts }}" alt="Medicine Chart" />
+    </div>
+  </div>
+
+  <!-- Segment 3: Doctor Performance -->
+  <div class="segment">
+    <div class="segment-header">
+      <span class="segment-badge">03</span>
+      <h2>Doctor Performance</h2>
+    </div>
+    <p style="color:#666; font-size:0.875rem; margin-bottom:1.25rem;">
+      Performance of Doctors On the basis of recovery rate
+    </p>
+    <div class="table-wrap" style="margin-bottom:1.25rem">
+      <table>
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Doctor</th>
+            <th>Total Patients</th>
+            <th>Fully Recovered</th>
+            <th>Recovery Rate</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for d in doctors %}
+          <tr>
+            <td>
+              {% if d.Rank == 1 %}
+                <span class="pill pill-amber">#1 🥇</span>
+              {% elif d.Rank == 2 %}
+                <span class="pill pill-purple">#2 🥈</span>
+              {% else %}
+                <span class="pill pill-blue">#{{ d.Rank }}</span>
+              {% endif %}
+            </td>
+            <td style="font-weight:600">{{ d.Doctor }}</td>
+            <td>{{ d.Total_Patients }}</td>
+            <td>{{ d.Fully_Recovered }}</td>
+            <td>
+              {% if d.Recovery_Rate >= 70 %}
+                <span class="pill pill-green">{{ d.Recovery_Rate }}%</span>
+              {% elif d.Recovery_Rate >= 50 %}
+                <span class="pill pill-amber">{{ d.Recovery_Rate }}%</span>
+              {% else %}
+                <span class="pill pill-red">{{ d.Recovery_Rate }}%</span>
+              {% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div class="chart-box">
+      <img src="/static/charts/doctor_chart.png?t={{ ts }}" alt="Doctor Chart" />
+    </div>
+  </div>
+
+</div>
+
+<footer>HealthInsight Analytics Made by Prasansha using FastAPI + Pandas for easy analysis  </footer>
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!-- login.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login — ArogyaInsight</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="/">Arogya<span>Insight</span></a>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/login" class="active">Login</a>
+  </div>
+</nav>
+
+<div class="form-page">
+  <div class="form-card">
+    <p class="section-label" style="margin-bottom:0.3rem">Login Portal</p>
+    <h1>Sign In</h1>
+
+    {% if error %}
+    <div class="alert alert-error">⚠ {{ error }}</div>
+    {% endif %}
+
+    <form method="POST" action="/login">
+      <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username"
+                required autocomplete="username" />
+      </div>
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password"
+                required autocomplete="current-password" />
+      </div>
+      <button type="submit" class="btn btn-primary btn-full" style="margin-top:0.75rem">
+        Login 
+      </button>
+    </form>
+
+  </div>
+</div>
+
+<footer>ArogyaInsight Analytics using pandas + FastAPI for data analysis</footer>
+
+</body>
+</html>
