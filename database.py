@@ -1,4 +1,3 @@
-     # database.py
 import sqlite3
 import os
 import pandas as pd
@@ -49,20 +48,19 @@ def seed_if_empty(conn: sqlite3.Connection) -> None:
     row_count = conn.execute("SELECT COUNT(*) FROM patient_records").fetchone()[0]
 
     if row_count == 0:
-        # patient.csv se load karo
+        # patient.csv load
         if os.path.exists(CSV_PATH):
             df = pd.read_csv(CSV_PATH)
 
-            # Patient_ID numeric hai toh P laga do
+            # Patient_ID numeric Plus P add
             if df["Patient_ID"].dtype in ["int64", "float64"]:
                 df["Patient_ID"] = "P" + df["Patient_ID"].astype(int).astype(str)
 
             df.to_sql("patient_records", conn, if_exists="append", index=False)
-            print(f"[DB] patient.csv se {len(df)} records load kiye.")
+            print(f"[DB] patients.csv {len(df)} records load")
         else:
-            print("[DB] patient.csv nahi mili — koi data load nahi hua.")
+            print("[DB] patients.csv not found — koi data load nahi hua.")
 
-    # Users seed karo
     for username, password in USERS:
         conn.execute(
             "INSERT OR IGNORE INTO users (username, password) VALUES (?, ?)",

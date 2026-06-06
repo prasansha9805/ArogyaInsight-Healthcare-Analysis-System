@@ -1,13 +1,4 @@
-// dashboard.js
-// Async Fetch API handlers for the HealthInsight Analytics Dashboard.
-// Handles: Patient search, Medicine efficacy lookup, and chart cache-busting.
 
-/* ── Utility helpers ─────────────────────────────────────────────────────── */
-
-/**
- * Escape HTML special characters to prevent XSS in dynamically
- * rendered table cells.
- */
 function esc(str) {
   if (str == null) return "—";
   return String(str)
@@ -44,7 +35,7 @@ function setLoading(spinnerId, active) {
 }
 
 /* ══════════════════════════════════════════════════════════════════════════ */
-/*  SEGMENT 1 – Patient History Search                                       */
+/*  SEGMENT 1 – Patient History Search  (part 1)                                     */
 /* ══════════════════════════════════════════════════════════════════════════ */
 
 async function searchPatient() {
@@ -110,7 +101,7 @@ async function searchPatient() {
 }
 
 /* ══════════════════════════════════════════════════════════════════════════ */
-/*  SEGMENT 2 – Medicine Efficacy                                            */
+/*  SEGMENT 2 – Medicine Efficiency                                            */
 /* ══════════════════════════════════════════════════════════════════════════ */
 
 async function searchMedicine() {
@@ -157,7 +148,7 @@ async function searchMedicine() {
       </div>
     `;
 
-    // Force the browser to reload the newly generated chart (cache-bust with timestamp)
+    // Force the browser to reload the newly generated chart
     if (chartBox) {
       const img = chartBox.querySelector("img");
       if (img) img.src = `/static/charts/medicine_chart.png?t=${Date.now()}`;
@@ -171,7 +162,7 @@ async function searchMedicine() {
 }
 
 /* ══════════════════════════════════════════════════════════════════════════ */
-/*  Enter-key support on search inputs                                       */
+/*  search inputs                                       */
 /* ══════════════════════════════════════════════════════════════════════════ */
 
 document.addEventListener("DOMContentLoaded", () => {

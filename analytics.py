@@ -1,4 +1,3 @@
-# analytics.py
 import sqlite3
 import pandas as pd
 import numpy as np
@@ -57,7 +56,7 @@ def analyse_medicine(medicine_name: str) -> dict:
     recovery_pct = round((recovered / total) * 100, 1)
     reaction_pct = round((reacted  / total) * 100, 1)
 
-    # Reaction types count karo
+    # Reaction types count
     reaction_df     = med_df[~med_df["Reaction"].apply(_no_reaction)]
     reaction_counts = reaction_df["Reaction"].value_counts()
 
@@ -142,7 +141,7 @@ def generate_doctor_chart() -> pd.DataFrame:
     grouped = grouped.sort_values("Recovery_Rate", ascending=False).reset_index(drop=True)
     grouped["Rank"] = grouped.index + 1
 
-    # ── Chart ────────────────────────────────────────────
+    # ── Chart ─
     doctors    = grouped["Doctor"].str.replace("Dr. ", "", regex=False)
     rates      = grouped["Recovery_Rate"].values
     totals     = grouped["Total_Patients"].values
@@ -204,7 +203,7 @@ def get_summary_kpis() -> dict:
     top_disease     = df["Disease"].value_counts().idxmax()
     top_medicine    = df["Medicine"].value_counts().idxmax()
 
-    # Most reactive medicine — jo medicine sabse zyada reactions de rahi hai
+    # Most reactive medicine
     reaction_df     = df[~df["Reaction"].apply(_no_reaction)]
     most_reactive   = reaction_df["Medicine"].value_counts().idxmax() \
                       if not reaction_df.empty else "N/A"
